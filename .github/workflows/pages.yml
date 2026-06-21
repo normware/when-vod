@@ -1,0 +1,74 @@
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 4 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Fetch TMDB data
+        run: npm run fetch-data
+        env:
+          TMDB_READ_ACCESS_TOKEN: ${{ secrets.TMDB_READ_ACCESS_TOKEN }}
+          WATCH_REGION: ${{ vars.WATCH_REGION || 'US' }}
+          TMDB_LANGUAGE: ${{ vars.TMDB_LANGUAGE || 'en-US' }}
+
+      - name: Generate screenshots
+        run: npm run screenshots
+
+      - name: Check publish output
+        run: npm run check
+
+      - name: Commit generated data and screenshots
+        if: github.event_name != 'push'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update generated VOD data and screenshots [skip ci]"
+          file_pattern: docs/data docs/screenshots
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

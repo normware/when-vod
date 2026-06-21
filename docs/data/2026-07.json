@@ -1,0 +1,2387 @@
+{
+  "generatedAt": "2026-06-21T11:49:50.906Z",
+  "month": "2026-07",
+  "label": "July 2026",
+  "region": "US",
+  "movies": [
+    {
+      "id": 1669191,
+      "title": "'Mr. Paradise'",
+      "releaseDate": "2026-07-01",
+      "firstDigitalDate": "2026-07-01",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-01",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0995,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/dWC7UHYVKX4528LXoIBXmEUN6NW.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1669191",
+      "letterboxdUrl": "https://letterboxd.com/search/'Mr.%20Paradise'/",
+      "providers": []
+    },
+    {
+      "id": 1202033,
+      "title": "Enola Holmes 3",
+      "releaseDate": "2026-07-01",
+      "firstDigitalDate": "2026-07-01",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-01",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 5.6237,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1202033",
+      "letterboxdUrl": "https://letterboxd.com/search/Enola%20Holmes%203/",
+      "providers": []
+    },
+    {
+      "id": 1716343,
+      "title": "NJPW Road to G1 Climax 36 - Day 4",
+      "releaseDate": "2026-07-02",
+      "firstDigitalDate": "2026-07-02",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-02",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0627,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/tlampZkH6hhYGtUOG6EJuzFXWRV.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1716343",
+      "letterboxdUrl": "https://letterboxd.com/search/NJPW%20Road%20to%20G1%20Climax%2036%20-%20Day%204/",
+      "providers": []
+    },
+    {
+      "id": 1702313,
+      "title": "The Trouble With Mistletoe",
+      "releaseDate": "2026-07-02",
+      "firstDigitalDate": "2026-07-02",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-02",
+          "note": "Great American Pure Flix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1975,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1702313",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Trouble%20With%20Mistletoe/",
+      "providers": []
+    },
+    {
+      "id": 1705729,
+      "title": "Man of War",
+      "releaseDate": "2026-07-03",
+      "firstDigitalDate": "2026-07-03",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-03",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.1618,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/fiqScwDv0FSQlMtIJxzPi9Xz78T.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1705729",
+      "letterboxdUrl": "https://letterboxd.com/search/Man%20of%20War/",
+      "providers": []
+    },
+    {
+      "id": 1715884,
+      "title": "The Wucket Bucket Crew",
+      "releaseDate": "2026-07-03",
+      "firstDigitalDate": "2026-07-03",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-03",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1348,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/tqdwqDGNzTkWwxoyIKqbY7RFMGU.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1715884",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Wucket%20Bucket%20Crew/",
+      "providers": []
+    },
+    {
+      "id": 1537673,
+      "title": "Eve",
+      "releaseDate": "2026-07-04",
+      "firstDigitalDate": "2026-07-04",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-04",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1348,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/c11oAIi8qReZIgBN7gIbK5KvXTb.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1537673",
+      "letterboxdUrl": "https://letterboxd.com/search/Eve/",
+      "providers": []
+    },
+    {
+      "id": 1512393,
+      "title": "Joust",
+      "releaseDate": "2026-07-04",
+      "firstDigitalDate": "2026-07-04",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-04",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0261,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/uaHCgUA9EYGjCAv4Le9wyQdnC3f.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1512393",
+      "letterboxdUrl": "https://letterboxd.com/search/Joust/",
+      "providers": []
+    },
+    {
+      "id": 1716344,
+      "title": "NJPW Road to G1 Climax 36 - Day 5",
+      "releaseDate": "2026-07-04",
+      "firstDigitalDate": "2026-07-04",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-04",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0739,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/tlampZkH6hhYGtUOG6EJuzFXWRV.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1716344",
+      "letterboxdUrl": "https://letterboxd.com/search/NJPW%20Road%20to%20G1%20Climax%2036%20-%20Day%205/",
+      "providers": []
+    },
+    {
+      "id": 858024,
+      "title": "Hamnet",
+      "releaseDate": "2026-07-06",
+      "firstDigitalDate": "2026-02-03",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-06",
+          "note": "Netflix",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 7.741,
+      "voteCount": 1397,
+      "popularity": 16.4108,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/858024",
+      "letterboxdUrl": "https://letterboxd.com/search/Hamnet/",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1716345,
+      "title": "NJPW Road to G1 Climax 36 - Day 6",
+      "releaseDate": "2026-07-06",
+      "firstDigitalDate": "2026-07-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-06",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1377,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/tlampZkH6hhYGtUOG6EJuzFXWRV.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1716345",
+      "letterboxdUrl": "https://letterboxd.com/search/NJPW%20Road%20to%20G1%20Climax%2036%20-%20Day%206/",
+      "providers": []
+    },
+    {
+      "id": 1617191,
+      "title": "Summer's Last Resort",
+      "releaseDate": "2026-07-06",
+      "firstDigitalDate": "2026-07-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-06",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.0221,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/vscxE36Em3lxUrjqy4liTCsNORb.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1617191",
+      "letterboxdUrl": "https://letterboxd.com/search/Summer's%20Last%20Resort/",
+      "providers": []
+    },
+    {
+      "id": 1321008,
+      "title": "Black Box (Flight 298)",
+      "releaseDate": "2026-07-07",
+      "firstDigitalDate": "2026-07-07",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-07",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.9905,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1321008",
+      "letterboxdUrl": "https://letterboxd.com/search/Black%20Box%20(Flight%20298)/",
+      "providers": []
+    },
+    {
+      "id": 1368107,
+      "title": "Demon Hunter: Time 2 Kill",
+      "releaseDate": "2026-07-07",
+      "firstDigitalDate": "2026-07-07",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-07",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1508,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/iMRTw9x6WS6qPh98TWzxJks4rz1.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1368107",
+      "letterboxdUrl": "https://letterboxd.com/search/Demon%20Hunter%3A%20Time%202%20Kill/",
+      "providers": []
+    },
+    {
+      "id": 1710008,
+      "title": "Nothing to Lose",
+      "releaseDate": "2026-07-08",
+      "firstDigitalDate": "2026-07-08",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-08",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.3057,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1710008",
+      "letterboxdUrl": "https://letterboxd.com/search/Nothing%20to%20Lose/",
+      "providers": []
+    },
+    {
+      "id": 1584782,
+      "title": "All the Queens Houses",
+      "releaseDate": "2026-07-10",
+      "firstDigitalDate": "2026-07-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-10",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0441,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/zCobyBiJI7r9rIjG2GzpcDcEPmO.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1584782",
+      "letterboxdUrl": "https://letterboxd.com/search/All%20the%20Queens%20Houses/",
+      "providers": []
+    },
+    {
+      "id": 1484913,
+      "title": "Ikka",
+      "releaseDate": "2026-07-10",
+      "firstDigitalDate": "2026-07-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-10",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.5112,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1484913",
+      "letterboxdUrl": "https://letterboxd.com/search/Ikka/",
+      "providers": []
+    },
+    {
+      "id": 1646057,
+      "title": "LOVESTRUCK",
+      "releaseDate": "2026-07-10",
+      "firstDigitalDate": "2026-07-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-10",
+          "note": "Patreon early release",
+          "kind": "first_digital"
+        },
+        {
+          "date": "2026-07-20",
+          "note": "YouTube Release",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0331,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/3p1McF8Pn0K5u9la3r1CWScFQF1.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1646057",
+      "letterboxdUrl": "https://letterboxd.com/search/LOVESTRUCK/",
+      "providers": []
+    },
+    {
+      "id": 1628752,
+      "title": "Rabbit on a Highway",
+      "releaseDate": "2026-07-10",
+      "firstDigitalDate": "2026-07-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-10",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1111,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/3mxmTZdZl3uXL4VAww49meLpQfV.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1628752",
+      "letterboxdUrl": "https://letterboxd.com/search/Rabbit%20on%20a%20Highway/",
+      "providers": []
+    },
+    {
+      "id": 1367642,
+      "title": "Reminders of Him",
+      "releaseDate": "2026-07-10",
+      "firstDigitalDate": "2026-04-14",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-10",
+          "note": "Peacock",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 7.7,
+      "voteCount": 313,
+      "popularity": 12.2464,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1367642",
+      "letterboxdUrl": "https://letterboxd.com/search/Reminders%20of%20Him/",
+      "providers": []
+    },
+    {
+      "id": 1715492,
+      "title": "Shipwrecked: Nightmare at Sea",
+      "releaseDate": "2026-07-10",
+      "firstDigitalDate": "2026-07-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-10",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.2848,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1715492",
+      "letterboxdUrl": "https://letterboxd.com/search/Shipwrecked%3A%20Nightmare%20at%20Sea/",
+      "providers": []
+    },
+    {
+      "id": 1616543,
+      "title": "NJPW G1 Climax 36 - Day 1",
+      "releaseDate": "2026-07-11",
+      "firstDigitalDate": "2026-07-11",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-11",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0143,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/s1HBwKnik4N7oohE50p5h0KtViK.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1616543",
+      "letterboxdUrl": "https://letterboxd.com/search/NJPW%20G1%20Climax%2036%20-%20Day%201/",
+      "providers": []
+    },
+    {
+      "id": 1483998,
+      "title": "Iyanu: The War of Twin Princes",
+      "releaseDate": "2026-07-12",
+      "firstDigitalDate": "2026-07-12",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-12",
+          "note": "HBO Max",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1403,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1483998",
+      "letterboxdUrl": "https://letterboxd.com/search/Iyanu%3A%20The%20War%20of%20Twin%20Princes/",
+      "providers": []
+    },
+    {
+      "id": 1083381,
+      "title": "Backrooms",
+      "releaseDate": "2026-07-14",
+      "firstDigitalDate": "2026-07-14",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-14",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 6.886,
+      "voteCount": 638,
+      "popularity": 122.1308,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1083381",
+      "letterboxdUrl": "https://letterboxd.com/search/Backrooms/",
+      "providers": []
+    },
+    {
+      "id": 1320105,
+      "title": "Love on Tap",
+      "releaseDate": "2026-07-14",
+      "firstDigitalDate": "2026-07-14",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-14",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.3951,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/oHLFj5XmRksHV5NJMeBW3LcgN4L.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1320105",
+      "letterboxdUrl": "https://letterboxd.com/search/Love%20on%20Tap/",
+      "providers": []
+    },
+    {
+      "id": 1631208,
+      "title": "Sunset Strip Killers",
+      "releaseDate": "2026-07-14",
+      "firstDigitalDate": "2026-07-14",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-14",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.0029,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/l4qSXk5zXCJOrjTyOC7fpMzRTdS.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1631208",
+      "letterboxdUrl": "https://letterboxd.com/search/Sunset%20Strip%20Killers/",
+      "providers": []
+    },
+    {
+      "id": 1707410,
+      "title": "TRADITIO II: A Work of Hope",
+      "releaseDate": "2026-07-14",
+      "firstDigitalDate": "2026-07-14",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-14",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1128,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/forlM8tsflwnLtOt1wH08Mive1i.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1707410",
+      "letterboxdUrl": "https://letterboxd.com/search/TRADITIO%20II%3A%20A%20Work%20of%20Hope/",
+      "providers": []
+    },
+    {
+      "id": 1717018,
+      "title": "Living Rooms: An Experimental FIlm",
+      "releaseDate": "2026-07-15",
+      "firstDigitalDate": "2026-07-15",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-15",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0775,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/8qlMLDFuxGWKuLPbBCyoHoCczi1.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1717018",
+      "letterboxdUrl": "https://letterboxd.com/search/Living%20Rooms%3A%20An%20Experimental%20FIlm/",
+      "providers": []
+    },
+    {
+      "id": 1692824,
+      "title": "Fake Punks",
+      "releaseDate": "2026-07-16",
+      "firstDigitalDate": "2026-07-16",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-16",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0882,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/qa8Ldu4Ntcj69SHJ4XNralgEpsn.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1692824",
+      "letterboxdUrl": "https://letterboxd.com/search/Fake%20Punks/",
+      "providers": []
+    },
+    {
+      "id": 1616674,
+      "title": "Me Before Me",
+      "releaseDate": "2026-07-16",
+      "firstDigitalDate": "2026-07-16",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-16",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.2919,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/xmwPr0YOFS6vC3aydnE85gxp36t.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1616674",
+      "letterboxdUrl": "https://letterboxd.com/search/Me%20Before%20Me/",
+      "providers": []
+    },
+    {
+      "id": 1656220,
+      "title": "23 000 Lives",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.1791,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1656220",
+      "letterboxdUrl": "https://letterboxd.com/search/23%20000%20Lives/",
+      "providers": []
+    },
+    {
+      "id": 1318621,
+      "title": "Descendants: Wicked Wonderland",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "Disney+",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 4.5029,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1318621",
+      "letterboxdUrl": "https://letterboxd.com/search/Descendants%3A%20Wicked%20Wonderland/",
+      "providers": []
+    },
+    {
+      "id": 1668364,
+      "title": "Desire",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 4,
+      "voteCount": 2,
+      "popularity": 3.7535,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1668364",
+      "letterboxdUrl": "https://letterboxd.com/search/Desire/",
+      "providers": []
+    },
+    {
+      "id": 1468683,
+      "title": "Heartstopper Forever",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 3.3937,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/33FT4v5HTs6re9K39HSL09HRPYq.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1468683",
+      "letterboxdUrl": "https://letterboxd.com/search/Heartstopper%20Forever/",
+      "providers": []
+    },
+    {
+      "id": 1689398,
+      "title": "In the Company of Wolves: An American Journey",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.2413,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/6sLHJk5KNgqTGKhQ4hRabvG18HU.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1689398",
+      "letterboxdUrl": "https://letterboxd.com/search/In%20the%20Company%20of%20Wolves%3A%20An%20American%20Journey/",
+      "providers": []
+    },
+    {
+      "id": 1646895,
+      "title": "Operation Kino",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "YouTube",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0398,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/oTvtkkGfhir0CBOTsJKr6vU4qS9.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1646895",
+      "letterboxdUrl": "https://letterboxd.com/search/Operation%20Kino/",
+      "providers": []
+    },
+    {
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "Prime Video",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 5.7945,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1516698",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Last%20Sunrise/",
+      "providers": []
+    },
+    {
+      "id": 1587964,
+      "title": "They Fight",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "Hulu",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 1,
+      "voteCount": 1,
+      "popularity": 0.993,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/u75d6VpbDyW4TNjcnLYAf0cMgU8.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1587964",
+      "letterboxdUrl": "https://letterboxd.com/search/They%20Fight/",
+      "providers": []
+    },
+    {
+      "id": 1394926,
+      "title": "Watchful Eyes",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.3044,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/yJiOoeKJ6l55uL8FE2V3bSfrJZI.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1394926",
+      "letterboxdUrl": "https://letterboxd.com/search/Watchful%20Eyes/",
+      "providers": []
+    },
+    {
+      "id": 1714224,
+      "title": "Wicked Wonderland 3",
+      "releaseDate": "2026-07-17",
+      "firstDigitalDate": "2026-07-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-17",
+          "note": "YouTube",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1915,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/arad5MQy4QSDOCaI7NbUOWz8pQR.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1714224",
+      "letterboxdUrl": "https://letterboxd.com/search/Wicked%20Wonderland%203/",
+      "providers": []
+    },
+    {
+      "id": 785157,
+      "title": "Capps Crossing: Wrong Side of Dead",
+      "releaseDate": "2026-07-18",
+      "firstDigitalDate": "2026-07-18",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-18",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.6885,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/i1BVM5VJUDyosQoaocfiOKJti6L.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/785157",
+      "letterboxdUrl": "https://letterboxd.com/search/Capps%20Crossing%3A%20Wrong%20Side%20of%20Dead/",
+      "providers": []
+    },
+    {
+      "id": 967941,
+      "title": "Wicked: For Good",
+      "releaseDate": "2026-07-20",
+      "firstDigitalDate": "2025-12-30",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-20",
+          "note": "Netflix",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 6.627,
+      "voteCount": 1029,
+      "popularity": 8.2211,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/967941",
+      "letterboxdUrl": "https://letterboxd.com/search/Wicked%3A%20For%20Good/",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1630409,
+      "title": "The Debt Collector",
+      "releaseDate": "2026-07-23",
+      "firstDigitalDate": "2026-07-23",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-23",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.2228,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1630409",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Debt%20Collector/",
+      "providers": []
+    },
+    {
+      "id": 1361774,
+      "title": "The Dink",
+      "releaseDate": "2026-07-23",
+      "firstDigitalDate": "2026-07-23",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-23",
+          "note": "Apple TV",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.1822,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/9m4uEdjPqdiU9MOl3tOkyFpMO7L.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1361774",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Dink/",
+      "providers": []
+    },
+    {
+      "id": 949838,
+      "title": "72 HOURS",
+      "releaseDate": "2026-07-24",
+      "firstDigitalDate": "2026-07-24",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-24",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.1399,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/ifuzZizxgZA1HT9sp667BqIqjXe.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/949838",
+      "letterboxdUrl": "https://letterboxd.com/search/72%20HOURS/",
+      "providers": []
+    },
+    {
+      "id": 1363387,
+      "title": "Saccharine",
+      "releaseDate": "2026-07-24",
+      "firstDigitalDate": "2026-06-12",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-24",
+          "note": "Shudder",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 6.212,
+      "voteCount": 26,
+      "popularity": 66.6784,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/wTlqMc4Jt8ZBtHh8CREblU3ajAB.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1363387",
+      "letterboxdUrl": "https://letterboxd.com/search/Saccharine/",
+      "providers": []
+    },
+    {
+      "id": 1616514,
+      "title": "The Taro Donatella Story",
+      "releaseDate": "2026-07-24",
+      "firstDigitalDate": "2026-07-24",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-24",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0143,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/qxKNxh2DZMK2sKnuswfNstVucDK.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1616514",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Taro%20Donatella%20Story/",
+      "providers": []
+    },
+    {
+      "id": 1659155,
+      "title": "The Truthers",
+      "releaseDate": "2026-07-24",
+      "firstDigitalDate": "2026-07-24",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-24",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.9742,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/hGAoaY7ZgI6TldkhWJpRH2rMZWh.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1659155",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Truthers/",
+      "providers": []
+    },
+    {
+      "id": 1702156,
+      "title": "Untitled Film By Connor Titus",
+      "releaseDate": "2026-07-24",
+      "firstDigitalDate": "2026-07-24",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-24",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1136,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/xEWxIbmQvGygJVRrjqiqYaUzSAX.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1702156",
+      "letterboxdUrl": "https://letterboxd.com/search/Untitled%20Film%20By%20Connor%20Titus/",
+      "providers": []
+    },
+    {
+      "id": 1705071,
+      "title": "AEW Redemption 2026",
+      "releaseDate": "2026-07-26",
+      "firstDigitalDate": "2026-07-26",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-26",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0577,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/svSbk2NHj0UlOI0G1ZkP77i0ntj.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1705071",
+      "letterboxdUrl": "https://letterboxd.com/search/AEW%20Redemption%202026/",
+      "providers": []
+    },
+    {
+      "id": 1710392,
+      "title": "Gun Pilots",
+      "releaseDate": "2026-07-27",
+      "firstDigitalDate": "2026-07-27",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-27",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.1851,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/eTHguP3uR8ZZ1IriDGXneGV967s.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1710392",
+      "letterboxdUrl": "https://letterboxd.com/search/Gun%20Pilots/",
+      "providers": []
+    },
+    {
+      "id": 1693617,
+      "title": "Masterpiece",
+      "releaseDate": "2026-07-27",
+      "firstDigitalDate": "2026-07-27",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-27",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0607,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/bCJ3HfQiwK98mESt9UY57MK2Mgi.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1693617",
+      "letterboxdUrl": "https://letterboxd.com/search/Masterpiece/",
+      "providers": []
+    },
+    {
+      "id": 1683531,
+      "title": "The Withering",
+      "releaseDate": "2026-07-28",
+      "firstDigitalDate": "2026-07-28",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-28",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.107,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/n2p0Li5n02BWQnx3sC2UjbEYgLc.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1683531",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Withering/",
+      "providers": []
+    },
+    {
+      "id": 1698575,
+      "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+      "releaseDate": "2026-07-30",
+      "firstDigitalDate": "2026-07-30",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-30",
+          "note": "Apple TV",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.8363,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/8oq1CUvOkjIpKUx67QiRC7fuhYi.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1698575",
+      "letterboxdUrl": "https://letterboxd.com/search/Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy/",
+      "providers": []
+    },
+    {
+      "id": 1652834,
+      "title": "Dead & Breakfast",
+      "releaseDate": "2026-07-31",
+      "firstDigitalDate": "2026-07-31",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-31",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0956,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/iht7eY0eAfsnROcNxMAzR3ilbvU.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1652834",
+      "letterboxdUrl": "https://letterboxd.com/search/Dead%20%26%20Breakfast/",
+      "providers": []
+    },
+    {
+      "id": 1685516,
+      "title": "Super Duper",
+      "releaseDate": "2026-07-31",
+      "firstDigitalDate": "2026-07-31",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-07-31",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.0306,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/kkAuJcjj5wqiULQT1xR3S47HRdt.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1685516",
+      "letterboxdUrl": "https://letterboxd.com/search/Super%20Duper/",
+      "providers": []
+    }
+  ],
+  "groups": [
+    {
+      "date": "2026-07-01",
+      "movies": [
+        {
+          "id": 1669191,
+          "title": "'Mr. Paradise'",
+          "releaseDate": "2026-07-01",
+          "firstDigitalDate": "2026-07-01",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-01",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0995,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/dWC7UHYVKX4528LXoIBXmEUN6NW.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1669191",
+          "letterboxdUrl": "https://letterboxd.com/search/'Mr.%20Paradise'/",
+          "providers": []
+        },
+        {
+          "id": 1202033,
+          "title": "Enola Holmes 3",
+          "releaseDate": "2026-07-01",
+          "firstDigitalDate": "2026-07-01",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-01",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 5.6237,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/thzeOvTcdqz14h4CZnw93SrTTKn.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1202033",
+          "letterboxdUrl": "https://letterboxd.com/search/Enola%20Holmes%203/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "movies": [
+        {
+          "id": 1716343,
+          "title": "NJPW Road to G1 Climax 36 - Day 4",
+          "releaseDate": "2026-07-02",
+          "firstDigitalDate": "2026-07-02",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-02",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0627,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/tlampZkH6hhYGtUOG6EJuzFXWRV.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1716343",
+          "letterboxdUrl": "https://letterboxd.com/search/NJPW%20Road%20to%20G1%20Climax%2036%20-%20Day%204/",
+          "providers": []
+        },
+        {
+          "id": 1702313,
+          "title": "The Trouble With Mistletoe",
+          "releaseDate": "2026-07-02",
+          "firstDigitalDate": "2026-07-02",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-02",
+              "note": "Great American Pure Flix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1975,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1702313",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Trouble%20With%20Mistletoe/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "movies": [
+        {
+          "id": 1705729,
+          "title": "Man of War",
+          "releaseDate": "2026-07-03",
+          "firstDigitalDate": "2026-07-03",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-03",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.1618,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/fiqScwDv0FSQlMtIJxzPi9Xz78T.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1705729",
+          "letterboxdUrl": "https://letterboxd.com/search/Man%20of%20War/",
+          "providers": []
+        },
+        {
+          "id": 1715884,
+          "title": "The Wucket Bucket Crew",
+          "releaseDate": "2026-07-03",
+          "firstDigitalDate": "2026-07-03",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-03",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1348,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/tqdwqDGNzTkWwxoyIKqbY7RFMGU.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1715884",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Wucket%20Bucket%20Crew/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "movies": [
+        {
+          "id": 1537673,
+          "title": "Eve",
+          "releaseDate": "2026-07-04",
+          "firstDigitalDate": "2026-07-04",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-04",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1348,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/c11oAIi8qReZIgBN7gIbK5KvXTb.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1537673",
+          "letterboxdUrl": "https://letterboxd.com/search/Eve/",
+          "providers": []
+        },
+        {
+          "id": 1512393,
+          "title": "Joust",
+          "releaseDate": "2026-07-04",
+          "firstDigitalDate": "2026-07-04",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-04",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0261,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/uaHCgUA9EYGjCAv4Le9wyQdnC3f.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1512393",
+          "letterboxdUrl": "https://letterboxd.com/search/Joust/",
+          "providers": []
+        },
+        {
+          "id": 1716344,
+          "title": "NJPW Road to G1 Climax 36 - Day 5",
+          "releaseDate": "2026-07-04",
+          "firstDigitalDate": "2026-07-04",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-04",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0739,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/tlampZkH6hhYGtUOG6EJuzFXWRV.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1716344",
+          "letterboxdUrl": "https://letterboxd.com/search/NJPW%20Road%20to%20G1%20Climax%2036%20-%20Day%205/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "movies": [
+        {
+          "id": 858024,
+          "title": "Hamnet",
+          "releaseDate": "2026-07-06",
+          "firstDigitalDate": "2026-02-03",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-06",
+              "note": "Netflix",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 7.741,
+          "voteCount": 1397,
+          "popularity": 16.4108,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/858024",
+          "letterboxdUrl": "https://letterboxd.com/search/Hamnet/",
+          "providers": [
+            "Peacock Premium",
+            "Peacock Premium Plus"
+          ]
+        },
+        {
+          "id": 1716345,
+          "title": "NJPW Road to G1 Climax 36 - Day 6",
+          "releaseDate": "2026-07-06",
+          "firstDigitalDate": "2026-07-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-06",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1377,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/tlampZkH6hhYGtUOG6EJuzFXWRV.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1716345",
+          "letterboxdUrl": "https://letterboxd.com/search/NJPW%20Road%20to%20G1%20Climax%2036%20-%20Day%206/",
+          "providers": []
+        },
+        {
+          "id": 1617191,
+          "title": "Summer's Last Resort",
+          "releaseDate": "2026-07-06",
+          "firstDigitalDate": "2026-07-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-06",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.0221,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/vscxE36Em3lxUrjqy4liTCsNORb.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1617191",
+          "letterboxdUrl": "https://letterboxd.com/search/Summer's%20Last%20Resort/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "movies": [
+        {
+          "id": 1321008,
+          "title": "Black Box (Flight 298)",
+          "releaseDate": "2026-07-07",
+          "firstDigitalDate": "2026-07-07",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-07",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.9905,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1321008",
+          "letterboxdUrl": "https://letterboxd.com/search/Black%20Box%20(Flight%20298)/",
+          "providers": []
+        },
+        {
+          "id": 1368107,
+          "title": "Demon Hunter: Time 2 Kill",
+          "releaseDate": "2026-07-07",
+          "firstDigitalDate": "2026-07-07",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-07",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1508,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/iMRTw9x6WS6qPh98TWzxJks4rz1.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1368107",
+          "letterboxdUrl": "https://letterboxd.com/search/Demon%20Hunter%3A%20Time%202%20Kill/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "movies": [
+        {
+          "id": 1710008,
+          "title": "Nothing to Lose",
+          "releaseDate": "2026-07-08",
+          "firstDigitalDate": "2026-07-08",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-08",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.3057,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1710008",
+          "letterboxdUrl": "https://letterboxd.com/search/Nothing%20to%20Lose/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "movies": [
+        {
+          "id": 1584782,
+          "title": "All the Queens Houses",
+          "releaseDate": "2026-07-10",
+          "firstDigitalDate": "2026-07-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-10",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0441,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/zCobyBiJI7r9rIjG2GzpcDcEPmO.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1584782",
+          "letterboxdUrl": "https://letterboxd.com/search/All%20the%20Queens%20Houses/",
+          "providers": []
+        },
+        {
+          "id": 1484913,
+          "title": "Ikka",
+          "releaseDate": "2026-07-10",
+          "firstDigitalDate": "2026-07-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-10",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.5112,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1484913",
+          "letterboxdUrl": "https://letterboxd.com/search/Ikka/",
+          "providers": []
+        },
+        {
+          "id": 1646057,
+          "title": "LOVESTRUCK",
+          "releaseDate": "2026-07-10",
+          "firstDigitalDate": "2026-07-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-10",
+              "note": "Patreon early release",
+              "kind": "first_digital"
+            },
+            {
+              "date": "2026-07-20",
+              "note": "YouTube Release",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0331,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/3p1McF8Pn0K5u9la3r1CWScFQF1.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1646057",
+          "letterboxdUrl": "https://letterboxd.com/search/LOVESTRUCK/",
+          "providers": []
+        },
+        {
+          "id": 1628752,
+          "title": "Rabbit on a Highway",
+          "releaseDate": "2026-07-10",
+          "firstDigitalDate": "2026-07-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-10",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1111,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/3mxmTZdZl3uXL4VAww49meLpQfV.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1628752",
+          "letterboxdUrl": "https://letterboxd.com/search/Rabbit%20on%20a%20Highway/",
+          "providers": []
+        },
+        {
+          "id": 1367642,
+          "title": "Reminders of Him",
+          "releaseDate": "2026-07-10",
+          "firstDigitalDate": "2026-04-14",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-10",
+              "note": "Peacock",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 7.7,
+          "voteCount": 313,
+          "popularity": 12.2464,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1367642",
+          "letterboxdUrl": "https://letterboxd.com/search/Reminders%20of%20Him/",
+          "providers": []
+        },
+        {
+          "id": 1715492,
+          "title": "Shipwrecked: Nightmare at Sea",
+          "releaseDate": "2026-07-10",
+          "firstDigitalDate": "2026-07-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-10",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.2848,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1715492",
+          "letterboxdUrl": "https://letterboxd.com/search/Shipwrecked%3A%20Nightmare%20at%20Sea/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "movies": [
+        {
+          "id": 1616543,
+          "title": "NJPW G1 Climax 36 - Day 1",
+          "releaseDate": "2026-07-11",
+          "firstDigitalDate": "2026-07-11",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-11",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0143,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/s1HBwKnik4N7oohE50p5h0KtViK.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1616543",
+          "letterboxdUrl": "https://letterboxd.com/search/NJPW%20G1%20Climax%2036%20-%20Day%201/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "movies": [
+        {
+          "id": 1483998,
+          "title": "Iyanu: The War of Twin Princes",
+          "releaseDate": "2026-07-12",
+          "firstDigitalDate": "2026-07-12",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-12",
+              "note": "HBO Max",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1403,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1483998",
+          "letterboxdUrl": "https://letterboxd.com/search/Iyanu%3A%20The%20War%20of%20Twin%20Princes/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "movies": [
+        {
+          "id": 1083381,
+          "title": "Backrooms",
+          "releaseDate": "2026-07-14",
+          "firstDigitalDate": "2026-07-14",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-14",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 6.886,
+          "voteCount": 638,
+          "popularity": 122.1308,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1083381",
+          "letterboxdUrl": "https://letterboxd.com/search/Backrooms/",
+          "providers": []
+        },
+        {
+          "id": 1320105,
+          "title": "Love on Tap",
+          "releaseDate": "2026-07-14",
+          "firstDigitalDate": "2026-07-14",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-14",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.3951,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/oHLFj5XmRksHV5NJMeBW3LcgN4L.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1320105",
+          "letterboxdUrl": "https://letterboxd.com/search/Love%20on%20Tap/",
+          "providers": []
+        },
+        {
+          "id": 1631208,
+          "title": "Sunset Strip Killers",
+          "releaseDate": "2026-07-14",
+          "firstDigitalDate": "2026-07-14",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-14",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.0029,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/l4qSXk5zXCJOrjTyOC7fpMzRTdS.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1631208",
+          "letterboxdUrl": "https://letterboxd.com/search/Sunset%20Strip%20Killers/",
+          "providers": []
+        },
+        {
+          "id": 1707410,
+          "title": "TRADITIO II: A Work of Hope",
+          "releaseDate": "2026-07-14",
+          "firstDigitalDate": "2026-07-14",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-14",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1128,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/forlM8tsflwnLtOt1wH08Mive1i.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1707410",
+          "letterboxdUrl": "https://letterboxd.com/search/TRADITIO%20II%3A%20A%20Work%20of%20Hope/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "movies": [
+        {
+          "id": 1717018,
+          "title": "Living Rooms: An Experimental FIlm",
+          "releaseDate": "2026-07-15",
+          "firstDigitalDate": "2026-07-15",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-15",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0775,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/8qlMLDFuxGWKuLPbBCyoHoCczi1.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1717018",
+          "letterboxdUrl": "https://letterboxd.com/search/Living%20Rooms%3A%20An%20Experimental%20FIlm/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "movies": [
+        {
+          "id": 1692824,
+          "title": "Fake Punks",
+          "releaseDate": "2026-07-16",
+          "firstDigitalDate": "2026-07-16",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-16",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0882,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/qa8Ldu4Ntcj69SHJ4XNralgEpsn.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1692824",
+          "letterboxdUrl": "https://letterboxd.com/search/Fake%20Punks/",
+          "providers": []
+        },
+        {
+          "id": 1616674,
+          "title": "Me Before Me",
+          "releaseDate": "2026-07-16",
+          "firstDigitalDate": "2026-07-16",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-16",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.2919,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/xmwPr0YOFS6vC3aydnE85gxp36t.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1616674",
+          "letterboxdUrl": "https://letterboxd.com/search/Me%20Before%20Me/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "movies": [
+        {
+          "id": 1656220,
+          "title": "23 000 Lives",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.1791,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1656220",
+          "letterboxdUrl": "https://letterboxd.com/search/23%20000%20Lives/",
+          "providers": []
+        },
+        {
+          "id": 1318621,
+          "title": "Descendants: Wicked Wonderland",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "Disney+",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 4.5029,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1318621",
+          "letterboxdUrl": "https://letterboxd.com/search/Descendants%3A%20Wicked%20Wonderland/",
+          "providers": []
+        },
+        {
+          "id": 1668364,
+          "title": "Desire",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 4,
+          "voteCount": 2,
+          "popularity": 3.7535,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1668364",
+          "letterboxdUrl": "https://letterboxd.com/search/Desire/",
+          "providers": []
+        },
+        {
+          "id": 1468683,
+          "title": "Heartstopper Forever",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 3.3937,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/33FT4v5HTs6re9K39HSL09HRPYq.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1468683",
+          "letterboxdUrl": "https://letterboxd.com/search/Heartstopper%20Forever/",
+          "providers": []
+        },
+        {
+          "id": 1689398,
+          "title": "In the Company of Wolves: An American Journey",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.2413,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/6sLHJk5KNgqTGKhQ4hRabvG18HU.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1689398",
+          "letterboxdUrl": "https://letterboxd.com/search/In%20the%20Company%20of%20Wolves%3A%20An%20American%20Journey/",
+          "providers": []
+        },
+        {
+          "id": 1646895,
+          "title": "Operation Kino",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "YouTube",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0398,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/oTvtkkGfhir0CBOTsJKr6vU4qS9.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1646895",
+          "letterboxdUrl": "https://letterboxd.com/search/Operation%20Kino/",
+          "providers": []
+        },
+        {
+          "id": 1516698,
+          "title": "The Last Sunrise",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "Prime Video",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 5.7945,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1516698",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Last%20Sunrise/",
+          "providers": []
+        },
+        {
+          "id": 1587964,
+          "title": "They Fight",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "Hulu",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 1,
+          "voteCount": 1,
+          "popularity": 0.993,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/u75d6VpbDyW4TNjcnLYAf0cMgU8.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1587964",
+          "letterboxdUrl": "https://letterboxd.com/search/They%20Fight/",
+          "providers": []
+        },
+        {
+          "id": 1394926,
+          "title": "Watchful Eyes",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.3044,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/yJiOoeKJ6l55uL8FE2V3bSfrJZI.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1394926",
+          "letterboxdUrl": "https://letterboxd.com/search/Watchful%20Eyes/",
+          "providers": []
+        },
+        {
+          "id": 1714224,
+          "title": "Wicked Wonderland 3",
+          "releaseDate": "2026-07-17",
+          "firstDigitalDate": "2026-07-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-17",
+              "note": "YouTube",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1915,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/arad5MQy4QSDOCaI7NbUOWz8pQR.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1714224",
+          "letterboxdUrl": "https://letterboxd.com/search/Wicked%20Wonderland%203/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "movies": [
+        {
+          "id": 785157,
+          "title": "Capps Crossing: Wrong Side of Dead",
+          "releaseDate": "2026-07-18",
+          "firstDigitalDate": "2026-07-18",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-18",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.6885,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/i1BVM5VJUDyosQoaocfiOKJti6L.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/785157",
+          "letterboxdUrl": "https://letterboxd.com/search/Capps%20Crossing%3A%20Wrong%20Side%20of%20Dead/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "movies": [
+        {
+          "id": 967941,
+          "title": "Wicked: For Good",
+          "releaseDate": "2026-07-20",
+          "firstDigitalDate": "2025-12-30",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-20",
+              "note": "Netflix",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 6.627,
+          "voteCount": 1029,
+          "popularity": 8.2211,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/967941",
+          "letterboxdUrl": "https://letterboxd.com/search/Wicked%3A%20For%20Good/",
+          "providers": [
+            "Peacock Premium",
+            "Peacock Premium Plus"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "movies": [
+        {
+          "id": 1630409,
+          "title": "The Debt Collector",
+          "releaseDate": "2026-07-23",
+          "firstDigitalDate": "2026-07-23",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-23",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.2228,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1630409",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Debt%20Collector/",
+          "providers": []
+        },
+        {
+          "id": 1361774,
+          "title": "The Dink",
+          "releaseDate": "2026-07-23",
+          "firstDigitalDate": "2026-07-23",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-23",
+              "note": "Apple TV",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.1822,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/9m4uEdjPqdiU9MOl3tOkyFpMO7L.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1361774",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Dink/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "movies": [
+        {
+          "id": 949838,
+          "title": "72 HOURS",
+          "releaseDate": "2026-07-24",
+          "firstDigitalDate": "2026-07-24",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-24",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.1399,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/ifuzZizxgZA1HT9sp667BqIqjXe.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/949838",
+          "letterboxdUrl": "https://letterboxd.com/search/72%20HOURS/",
+          "providers": []
+        },
+        {
+          "id": 1363387,
+          "title": "Saccharine",
+          "releaseDate": "2026-07-24",
+          "firstDigitalDate": "2026-06-12",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-24",
+              "note": "Shudder",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 6.212,
+          "voteCount": 26,
+          "popularity": 66.6784,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/wTlqMc4Jt8ZBtHh8CREblU3ajAB.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1363387",
+          "letterboxdUrl": "https://letterboxd.com/search/Saccharine/",
+          "providers": []
+        },
+        {
+          "id": 1616514,
+          "title": "The Taro Donatella Story",
+          "releaseDate": "2026-07-24",
+          "firstDigitalDate": "2026-07-24",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-24",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0143,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/qxKNxh2DZMK2sKnuswfNstVucDK.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1616514",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Taro%20Donatella%20Story/",
+          "providers": []
+        },
+        {
+          "id": 1659155,
+          "title": "The Truthers",
+          "releaseDate": "2026-07-24",
+          "firstDigitalDate": "2026-07-24",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-24",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.9742,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/hGAoaY7ZgI6TldkhWJpRH2rMZWh.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1659155",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Truthers/",
+          "providers": []
+        },
+        {
+          "id": 1702156,
+          "title": "Untitled Film By Connor Titus",
+          "releaseDate": "2026-07-24",
+          "firstDigitalDate": "2026-07-24",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-24",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1136,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/xEWxIbmQvGygJVRrjqiqYaUzSAX.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1702156",
+          "letterboxdUrl": "https://letterboxd.com/search/Untitled%20Film%20By%20Connor%20Titus/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "movies": [
+        {
+          "id": 1705071,
+          "title": "AEW Redemption 2026",
+          "releaseDate": "2026-07-26",
+          "firstDigitalDate": "2026-07-26",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-26",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0577,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/svSbk2NHj0UlOI0G1ZkP77i0ntj.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1705071",
+          "letterboxdUrl": "https://letterboxd.com/search/AEW%20Redemption%202026/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "movies": [
+        {
+          "id": 1710392,
+          "title": "Gun Pilots",
+          "releaseDate": "2026-07-27",
+          "firstDigitalDate": "2026-07-27",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-27",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.1851,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/eTHguP3uR8ZZ1IriDGXneGV967s.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1710392",
+          "letterboxdUrl": "https://letterboxd.com/search/Gun%20Pilots/",
+          "providers": []
+        },
+        {
+          "id": 1693617,
+          "title": "Masterpiece",
+          "releaseDate": "2026-07-27",
+          "firstDigitalDate": "2026-07-27",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-27",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0607,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/bCJ3HfQiwK98mESt9UY57MK2Mgi.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1693617",
+          "letterboxdUrl": "https://letterboxd.com/search/Masterpiece/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "movies": [
+        {
+          "id": 1683531,
+          "title": "The Withering",
+          "releaseDate": "2026-07-28",
+          "firstDigitalDate": "2026-07-28",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-28",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.107,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/n2p0Li5n02BWQnx3sC2UjbEYgLc.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1683531",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Withering/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "movies": [
+        {
+          "id": 1698575,
+          "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+          "releaseDate": "2026-07-30",
+          "firstDigitalDate": "2026-07-30",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-30",
+              "note": "Apple TV",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.8363,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/8oq1CUvOkjIpKUx67QiRC7fuhYi.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1698575",
+          "letterboxdUrl": "https://letterboxd.com/search/Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "movies": [
+        {
+          "id": 1652834,
+          "title": "Dead & Breakfast",
+          "releaseDate": "2026-07-31",
+          "firstDigitalDate": "2026-07-31",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-31",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0956,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/iht7eY0eAfsnROcNxMAzR3ilbvU.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1652834",
+          "letterboxdUrl": "https://letterboxd.com/search/Dead%20%26%20Breakfast/",
+          "providers": []
+        },
+        {
+          "id": 1685516,
+          "title": "Super Duper",
+          "releaseDate": "2026-07-31",
+          "firstDigitalDate": "2026-07-31",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-07-31",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.0306,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/kkAuJcjj5wqiULQT1xR3S47HRdt.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1685516",
+          "letterboxdUrl": "https://letterboxd.com/search/Super%20Duper/",
+          "providers": []
+        }
+      ]
+    }
+  ]
+}

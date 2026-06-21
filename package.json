@@ -1,0 +1,19 @@
+{
+  "name": "when-vod",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-server.js",
+    "build": "node scripts/build.js",
+    "fetch-data": "node scripts/fetch-data.js",
+    "screenshots": "node scripts/screenshots.js",
+    "check": "node scripts/check-publish.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
