@@ -65,5 +65,6 @@ curl -I https://when-vod.normware.org/datenschutz/
 ```
 
 The legal routes should redirect or resolve through the central
-`normware.org` legal pages. The current local blocker before publication is DNS:
-`when-vod.normware.org` did not resolve during the 2026-06-21 live check.
+`normware.org` legal pages. `when-vod.normware.org` was added in Cloudflare on
+2026-06-23; public resolvers saw the proxied record immediately, while local
+resolver caches may take longer to catch up.
