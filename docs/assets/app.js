@@ -9,7 +9,7 @@ const todayButton = document.querySelector("[data-today]");
 let monthData = null;
 let activeFilters = {
   minRating: 0,
-  minPopularity: 5,
+  minPopularity: 1,
   eventView: "vod_first"
 };
 
@@ -86,7 +86,7 @@ async function renderMonth() {
       </label>
       <label class="filter-item">
         <span>min popularity</span>
-        <input data-filter-popularity type="range" min="0" max="${computePopularityMax(monthData.movies)}" step="5" value="${activeFilters.minPopularity}">
+        <input data-filter-popularity type="range" min="0" max="${computePopularityMax(monthData.movies)}" step="1" value="${activeFilters.minPopularity}">
         <strong data-filter-popularity-label>${activeFilters.minPopularity}</strong>
       </label>
       <button class="filter-reset" type="button" data-filter-reset>reset</button>
@@ -158,16 +158,16 @@ function wireFilters() {
   reset.addEventListener("click", () => {
     activeFilters = {
       minRating: 0,
-      minPopularity: 5,
+  minPopularity: 1,
       eventView: "vod_first"
     };
     modeButtons.forEach((candidate) =>
       candidate.setAttribute("aria-pressed", String(candidate.dataset.viewMode === activeFilters.eventView))
     );
     rating.value = "0";
-    popularity.value = "5";
+    popularity.value = "1";
     ratingLabel.textContent = "0.0";
-    popularityLabel.textContent = "5";
+    popularityLabel.textContent = "1";
     syncFiltersToUrl();
     renderFilteredMonth();
   });
@@ -390,7 +390,7 @@ function getInitialFiltersFromUrl() {
   const eventView = params.get("eventView");
   return {
     minRating: parseNumberParam(params.get("minRating"), 0),
-    minPopularity: parseNumberParam(params.get("minPopularity"), 5),
+    minPopularity: parseNumberParam(params.get("minPopularity"), 1),
     eventView: eventView === "streaming_only" || eventView === "all_events" ? eventView : "vod_first"
   };
 }
