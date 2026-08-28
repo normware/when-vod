@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:57:18.118Z",
+  "generatedAt": "2026-08-28T16:42:36.721Z",
   "month": "2026-08",
   "label": "August 2026",
   "region": "US",
@@ -18,7 +18,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.8525,
+      "popularity": 2.5463,
       "posterUrl": "https://image.tmdb.org/t/p/w185/c1zB6G9pBJ3gjhnM2M0ayGbALvh.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1735591",
       "letterboxdUrl": "https://letterboxd.com/search/AAA%20Verano%20de%20Esc%C3%A1ndalo%202026%20-%20Week%202/",
@@ -38,7 +38,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.5876,
+      "popularity": 0.6507,
       "posterUrl": "https://image.tmdb.org/t/p/w185/pmWuERLO9StXyHRn5xf8xaszsZP.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1742209",
       "letterboxdUrl": "https://letterboxd.com/search/Always%20Been%20You/",
@@ -58,7 +58,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.4736,
+      "popularity": 1.6804,
       "posterUrl": "https://image.tmdb.org/t/p/w185/9VPtrwiVJfwbvABBdeNpMyOjUXe.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1512014",
       "letterboxdUrl": "https://letterboxd.com/search/Bound%20By%20Lies/",
@@ -78,7 +78,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.7832,
+      "popularity": 0.9136,
       "posterUrl": "https://image.tmdb.org/t/p/w185/8ftqxuMhDNEscwH8N2j1KhAAcew.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1679282",
       "letterboxdUrl": "https://letterboxd.com/search/Death%2C%20Taxes%2C%20And%20Fantasy%20Baseball/",
@@ -98,7 +98,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.3723,
+      "popularity": 0.521,
       "posterUrl": "https://image.tmdb.org/t/p/w185/gtBAWvuWrmC3F3eLtQkhGZU68Kz.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1739653",
       "letterboxdUrl": "https://letterboxd.com/search/Great%20White%20Highway/",
@@ -118,7 +118,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.8439,
+      "popularity": 1.0938,
       "posterUrl": "",
       "tmdbUrl": "https://www.themoviedb.org/movie/1741617",
       "letterboxdUrl": "https://letterboxd.com/search/Hansel%20%26%20Gretel's%20Halloween/",
@@ -138,7 +138,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.517,
+      "popularity": 1.4732,
       "posterUrl": "https://image.tmdb.org/t/p/w185/3UJX8Wige0Gqb1FHPdcLKJJdd51.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1742537",
       "letterboxdUrl": "https://letterboxd.com/search/Hawkins%20Power%20%26%20Light/",
@@ -158,7 +158,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.5327,
+      "popularity": 0.8374,
       "posterUrl": "https://image.tmdb.org/t/p/w185/2ycivX755qfDFnU2WTT7KttGmdM.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1743661",
       "letterboxdUrl": "https://letterboxd.com/search/Horror%20Anthology%20Volume%202/",
@@ -178,7 +178,7 @@
       ],
       "voteAverage": 9,
       "voteCount": 2,
-      "popularity": 0.7942,
+      "popularity": 1.0099,
       "posterUrl": "https://image.tmdb.org/t/p/w185/mHJQCOICHVHm8pOKAGm0rk0Qidu.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1723402",
       "letterboxdUrl": "https://letterboxd.com/search/NJPW%20G1%20Climax%2036%20-%20Day%2010/",
@@ -198,10 +198,30 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.0642,
+      "popularity": 0.9977,
       "posterUrl": "https://image.tmdb.org/t/p/w185/yiBWqTLvyh0RuTYFgjGqJxKKdwa.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1535620",
       "letterboxdUrl": "https://letterboxd.com/search/Orange%20Torches/",
+      "providers": []
+    },
+    {
+      "id": 1741651,
+      "title": "Real People",
+      "releaseDate": "2026-08-01",
+      "firstDigitalDate": "2026-08-01",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-01",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 10,
+      "voteCount": 1,
+      "popularity": 0.6097,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/nE7IhGeNoPJv47aMDvcTkvzlH46.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1741651",
+      "letterboxdUrl": "https://letterboxd.com/search/Real%20People/",
       "providers": []
     },
     {
@@ -218,7 +238,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.401,
+      "popularity": 1.4716,
       "posterUrl": "https://image.tmdb.org/t/p/w185/9cEAP0JhoIQn6j09XJD2IIHD3gE.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1741670",
       "letterboxdUrl": "https://letterboxd.com/search/REW%2003/",
@@ -236,9 +256,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.355,
-      "voteCount": 256,
-      "popularity": 91.048,
+      "voteAverage": 7.4,
+      "voteCount": 275,
+      "popularity": 74.2665,
       "posterUrl": "https://image.tmdb.org/t/p/w185/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1307118",
       "letterboxdUrl": "https://letterboxd.com/search/Soulm8te/",
@@ -258,7 +278,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.503,
+      "popularity": 0.5316,
       "posterUrl": "https://image.tmdb.org/t/p/w185/rdkdUeD5Ndkyuh2nHkEiriCawc2.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1722441",
       "letterboxdUrl": "https://letterboxd.com/search/Summoned/",
@@ -278,7 +298,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.658,
+      "popularity": 1.137,
       "posterUrl": "https://image.tmdb.org/t/p/w185/6rJvmRUy4MuiUPXosy48irfNvBs.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1752483",
       "letterboxdUrl": "https://letterboxd.com/search/The%20House%20of%20Dr.%20Cross/",
@@ -298,7 +318,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.6989,
+      "popularity": 0.7358,
       "posterUrl": "https://image.tmdb.org/t/p/w185/em6CdLXaXkPEErKTWSJ2zHpoPZy.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1739654",
       "letterboxdUrl": "https://letterboxd.com/search/Thresher%20Shark%3A%20Stun%20to%20Kill/",
@@ -321,7 +341,7 @@
       ],
       "voteAverage": 6.286,
       "voteCount": 7,
-      "popularity": 3.4562,
+      "popularity": 3.0143,
       "posterUrl": "https://image.tmdb.org/t/p/w185/1hksIYHtsHCG70nZKbnrYBPk600.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1596278",
       "letterboxdUrl": "https://letterboxd.com/search/Time%20and%20Water/",
@@ -331,26 +351,6 @@
         "fuboTV",
         "YouTube TV"
       ]
-    },
-    {
-      "id": 1735049,
-      "title": "Tripolar",
-      "releaseDate": "2026-08-01",
-      "firstDigitalDate": "2026-08-01",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-01",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 0.3534,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/8XaSOm2S9UMxZnhUKyLODBUYoYz.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1735049",
-      "letterboxdUrl": "https://letterboxd.com/search/Tripolar/",
-      "providers": []
     },
     {
       "id": 1692150,
@@ -366,7 +366,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.0749,
+      "popularity": 1.2608,
       "posterUrl": "https://image.tmdb.org/t/p/w185/n7Bo6OyjkiJGjFmwUOnML1JbKww.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1692150",
       "letterboxdUrl": "https://letterboxd.com/search/We%20Want%20the%20Virus/",
@@ -386,7 +386,7 @@
       ],
       "voteAverage": 7.35,
       "voteCount": 10,
-      "popularity": 2.7814,
+      "popularity": 4.0745,
       "posterUrl": "https://image.tmdb.org/t/p/w185/adzFKQwbd0Cy6YIOxPwMIbiY2Hh.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1741109",
       "letterboxdUrl": "https://letterboxd.com/search/WWE%20SummerSlam%202026%3A%20Saturday/",
@@ -406,7 +406,7 @@
       ],
       "voteAverage": 8,
       "voteCount": 2,
-      "popularity": 2.3759,
+      "popularity": 2.3727,
       "posterUrl": "https://image.tmdb.org/t/p/w185/p3TqW1ID7hHsN549mOT5Yu8fO7W.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1298508",
       "letterboxdUrl": "https://letterboxd.com/search/WWE%20SummerSlam%202026%3A%20Saturday%20-%20Countdown/",
@@ -426,7 +426,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 2.777,
+      "popularity": 2.5865,
       "posterUrl": "https://image.tmdb.org/t/p/w185/okQ0wbOjrPXoaezqUhtrpapbeS3.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1741733",
       "letterboxdUrl": "https://letterboxd.com/search/Ankaha/",
@@ -446,7 +446,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.0462,
+      "popularity": 1.0745,
       "posterUrl": "https://image.tmdb.org/t/p/w185/zSbOlnRzA14W2Ir3cMiNw3xfnAd.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1742092",
       "letterboxdUrl": "https://letterboxd.com/search/Kylie%20Vincent's%20Last%20Day%20on%20Earth/",
@@ -466,7 +466,7 @@
       ],
       "voteAverage": 7.5,
       "voteCount": 2,
-      "popularity": 1.061,
+      "popularity": 0.9134,
       "posterUrl": "https://image.tmdb.org/t/p/w185/mHJQCOICHVHm8pOKAGm0rk0Qidu.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1723403",
       "letterboxdUrl": "https://letterboxd.com/search/NJPW%20G1%20Climax%2036%20-%20Day%2011/",
@@ -486,7 +486,7 @@
       ],
       "voteAverage": 7.778,
       "voteCount": 9,
-      "popularity": 3.1545,
+      "popularity": 4.0843,
       "posterUrl": "https://image.tmdb.org/t/p/w185/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1741545",
       "letterboxdUrl": "https://letterboxd.com/search/WWE%20SummerSlam%202026%3A%20Sunday/",
@@ -506,7 +506,7 @@
       ],
       "voteAverage": 6.5,
       "voteCount": 2,
-      "popularity": 1.5063,
+      "popularity": 1.2581,
       "posterUrl": "https://image.tmdb.org/t/p/w185/p3TqW1ID7hHsN549mOT5Yu8fO7W.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1298510",
       "letterboxdUrl": "https://letterboxd.com/search/WWE%20SummerSlam%202026%3A%20Sunday%20-%20Countdown/",
@@ -524,9 +524,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.111,
+      "voteAverage": 7.1,
       "voteCount": 9,
-      "popularity": 4.7777,
+      "popularity": 4.685,
       "posterUrl": "https://image.tmdb.org/t/p/w185/glYJbEs9MBPAGAj2EL0jFPlmEAT.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1470329",
       "letterboxdUrl": "https://letterboxd.com/search/Another%20World/",
@@ -546,7 +546,7 @@
       ],
       "voteAverage": 5,
       "voteCount": 1,
-      "popularity": 3.4569,
+      "popularity": 3.1041,
       "posterUrl": "https://image.tmdb.org/t/p/w185/qZ5yg9dXOOfljiBeRB3uZeziKcn.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1739573",
       "letterboxdUrl": "https://letterboxd.com/search/Bad%20Ramen/",
@@ -564,9 +564,9 @@
           "kind": "streaming_drop"
         }
       ],
-      "voteAverage": 6.6,
-      "voteCount": 1146,
-      "popularity": 20.0222,
+      "voteAverage": 6.589,
+      "voteCount": 1150,
+      "popularity": 23.2622,
       "posterUrl": "https://image.tmdb.org/t/p/w185/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1228246",
       "letterboxdUrl": "https://letterboxd.com/search/Five%20Nights%20at%20Freddy's%202/",
@@ -589,7 +589,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.2848,
+      "popularity": 1.3163,
       "posterUrl": "https://image.tmdb.org/t/p/w185/cQFC1KkVdXxC7qUjxKrnuoki6cj.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1743052",
       "letterboxdUrl": "https://letterboxd.com/search/Lost%20in%20Air/",
@@ -609,7 +609,7 @@
       ],
       "voteAverage": 8,
       "voteCount": 2,
-      "popularity": 0.6617,
+      "popularity": 0.8281,
       "posterUrl": "https://image.tmdb.org/t/p/w185/qTOzp065hn2qV6Ul2si104hwywF.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1279987",
       "letterboxdUrl": "https://letterboxd.com/search/Mercenaire/",
@@ -627,9 +627,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 5.857,
+      "voteAverage": 5.9,
       "voteCount": 7,
-      "popularity": 22.9224,
+      "popularity": 17.0907,
       "posterUrl": "https://image.tmdb.org/t/p/w185/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1740877",
       "letterboxdUrl": "https://letterboxd.com/search/Storm%20on%20Sesame%20Street/",
@@ -653,7 +653,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.0865,
+      "popularity": 1.9331,
       "posterUrl": "https://image.tmdb.org/t/p/w185/lx6Rf87h9S9tL6z4WpLTtFmGpo3.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1742818",
       "letterboxdUrl": "https://letterboxd.com/search/Turtle%20Rock/",
@@ -673,7 +673,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 4.28,
+      "popularity": 3.6754,
       "posterUrl": "https://image.tmdb.org/t/p/w185/lz1YWsyMeYPWzyVIdnuddkInJmT.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1718220",
       "letterboxdUrl": "https://letterboxd.com/search/Before%20Never/",
@@ -693,7 +693,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.6127,
+      "popularity": 0.718,
       "posterUrl": "",
       "tmdbUrl": "https://www.themoviedb.org/movie/1743072",
       "letterboxdUrl": "https://letterboxd.com/search/Bullseye/",
@@ -713,7 +713,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.3503,
+      "popularity": 0.5247,
       "posterUrl": "https://image.tmdb.org/t/p/w185/urdoR1wzhtDEu08CIkkMHUh5S7L.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1725988",
       "letterboxdUrl": "https://letterboxd.com/search/Down%20With%20The%20Entity's/",
@@ -731,9 +731,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.833,
-      "voteCount": 1260,
-      "popularity": 124.2903,
+      "voteAverage": 7.811,
+      "voteCount": 1309,
+      "popularity": 119.617,
       "posterUrl": "https://image.tmdb.org/t/p/w185/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1212763",
       "letterboxdUrl": "https://letterboxd.com/search/Evil%20Dead%20Burn/",
@@ -753,7 +753,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 2.175,
+      "popularity": 2.2657,
       "posterUrl": "https://image.tmdb.org/t/p/w185/pUcFOSiao10kjE8dzy8c1SQ0GIB.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1741346",
       "letterboxdUrl": "https://letterboxd.com/search/Evil%20Follows/",
@@ -775,7 +775,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.1581,
+      "popularity": 1.6543,
       "posterUrl": "https://image.tmdb.org/t/p/w185/71ctCrpPoHU29tdjBe3uOObjch0.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1749595",
       "letterboxdUrl": "https://letterboxd.com/search/I'm%20Going%20Full%20Frontal%20for%20My%20NYU%20Student%20Short%20Film/",
@@ -783,7 +783,7 @@
     },
     {
       "id": 730558,
-      "title": "Prisoners of Paradise (Ambleside)",
+      "title": "Prisoners of Paradise",
       "releaseDate": "2026-08-04",
       "firstDigitalDate": "2026-08-04",
       "monthDigitalEvents": [
@@ -795,10 +795,10 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 3.9475,
+      "popularity": 3.89,
       "posterUrl": "https://image.tmdb.org/t/p/w185/d11G12RZ0gkoQIzrIwpqmLiGQDk.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/730558",
-      "letterboxdUrl": "https://letterboxd.com/search/Prisoners%20of%20Paradise%20(Ambleside)/",
+      "letterboxdUrl": "https://letterboxd.com/search/Prisoners%20of%20Paradise/",
       "providers": []
     },
     {
@@ -815,7 +815,7 @@
       ],
       "voteAverage": 10,
       "voteCount": 1,
-      "popularity": 2.6194,
+      "popularity": 3.1412,
       "posterUrl": "https://image.tmdb.org/t/p/w185/lcUufwF6o3n6VF6PMLt0uUZLTOM.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1739639",
       "letterboxdUrl": "https://letterboxd.com/search/RAGEBAIT/",
@@ -837,7 +837,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.58,
+      "popularity": 0.5806,
       "posterUrl": "https://image.tmdb.org/t/p/w185/dGezSeYTCsF2i0ZnOEo71Yd2LVy.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1465988",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Degenerate%3A%20The%20Life%20and%20Films%20of%20Andy%20Milligan/",
@@ -857,7 +857,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.5441,
+      "popularity": 0.723,
       "posterUrl": "https://image.tmdb.org/t/p/w185/oB55YjYPAbDAwg7a7aBp6TLWsZn.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1743393",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Doorman/",
@@ -877,30 +877,10 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.3608,
+      "popularity": 0.4981,
       "posterUrl": "https://image.tmdb.org/t/p/w185/kmaTAvu5ASTEIyahciL6ctjBW8v.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1722109",
       "letterboxdUrl": "https://letterboxd.com/search/Time%20is%20of%20the%20Essence/",
-      "providers": []
-    },
-    {
-      "id": 1743827,
-      "title": "AEW Grand Slam Mexico",
-      "releaseDate": "2026-08-05",
-      "firstDigitalDate": "2026-08-05",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-05",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 0.5757,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/mx8YQKsf7nejtdhR1OaNvdwI8Wk.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1743827",
-      "letterboxdUrl": "https://letterboxd.com/search/AEW%20Grand%20Slam%20Mexico/",
       "providers": []
     },
     {
@@ -917,34 +897,11 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.4944,
+      "popularity": 0.6191,
       "posterUrl": "https://image.tmdb.org/t/p/w185/nOwluAwDh2iYRey8JhEchCc3XDz.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1644758",
       "letterboxdUrl": "https://letterboxd.com/search/Angel%20(iii)/",
       "providers": []
-    },
-    {
-      "id": 1728056,
-      "title": "Big Chicken: A Fast Food Conspiracy",
-      "releaseDate": "2026-08-05",
-      "firstDigitalDate": "2026-08-05",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-05",
-          "note": "Netflix",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 5.773,
-      "voteCount": 11,
-      "popularity": 6.7706,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1728056",
-      "letterboxdUrl": "https://letterboxd.com/search/Big%20Chicken%3A%20A%20Fast%20Food%20Conspiracy/",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
     },
     {
       "id": 1744555,
@@ -960,7 +917,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 2.3498,
+      "popularity": 2.2215,
       "posterUrl": "https://image.tmdb.org/t/p/w185/nECyDJ6ic3I70cHuXZwzZULMVJB.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1744555",
       "letterboxdUrl": "https://letterboxd.com/search/Field%20Mouse/",
@@ -980,54 +937,11 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.4516,
+      "popularity": 0.5418,
       "posterUrl": "https://image.tmdb.org/t/p/w185/7ZlaXN6Rij8aiFIWlC0iw2ZnV3m.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1744173",
       "letterboxdUrl": "https://letterboxd.com/search/Forever%2C%20Obviously/",
       "providers": []
-    },
-    {
-      "id": 1743159,
-      "title": "Heretical Girls",
-      "releaseDate": "2026-08-05",
-      "firstDigitalDate": "2026-08-05",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-05",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 2.2594,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/fPKfBNsn6o32PPcKmVRd3dy80JZ.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1743159",
-      "letterboxdUrl": "https://letterboxd.com/search/Heretical%20Girls/",
-      "providers": []
-    },
-    {
-      "id": 1421594,
-      "title": "Inside the Trustor Scandal",
-      "releaseDate": "2026-08-05",
-      "firstDigitalDate": "2026-08-05",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-05",
-          "note": "Netflix",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 5.7,
-      "voteCount": 7,
-      "popularity": 5.5114,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1421594",
-      "letterboxdUrl": "https://letterboxd.com/search/Inside%20the%20Trustor%20Scandal/",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
     },
     {
       "id": 1733048,
@@ -1043,7 +957,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 2.06,
+      "popularity": 2.439,
       "posterUrl": "https://image.tmdb.org/t/p/w185/wIUidKkjnGJgUzVxUX4yHjnMCU2.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1733048",
       "letterboxdUrl": "https://letterboxd.com/search/Last%20Viewing/",
@@ -1063,30 +977,10 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 2.6552,
+      "popularity": 3.0773,
       "posterUrl": "",
       "tmdbUrl": "https://www.themoviedb.org/movie/1745295",
       "letterboxdUrl": "https://letterboxd.com/search/No%20Contact/",
-      "providers": []
-    },
-    {
-      "id": 1718286,
-      "title": "Pleura",
-      "releaseDate": "2026-08-05",
-      "firstDigitalDate": "2026-08-05",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-05",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 0.6852,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/nrRQxUitphhoDHZZXCr2qb7iMpF.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1718286",
-      "letterboxdUrl": "https://letterboxd.com/search/Pleura/",
       "providers": []
     },
     {
@@ -1103,30 +997,10 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.4089,
+      "popularity": 0.5331,
       "posterUrl": "https://image.tmdb.org/t/p/w185/4u4GjOpM5n2SpEUl2DrtGRCJytT.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1746638",
       "letterboxdUrl": "https://letterboxd.com/search/Rocket%20USA%20Experiments%20%231/",
-      "providers": []
-    },
-    {
-      "id": 1742535,
-      "title": "Song of the Visitor",
-      "releaseDate": "2026-08-05",
-      "firstDigitalDate": "2026-08-05",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-05",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 10,
-      "voteCount": 1,
-      "popularity": 0.4311,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/8ps8n1Etfg4uGWA7aRFxgND4uOW.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1742535",
-      "letterboxdUrl": "https://letterboxd.com/search/Song%20of%20the%20Visitor/",
       "providers": []
     },
     {
@@ -1143,7 +1017,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.4825,
+      "popularity": 0.5512,
       "posterUrl": "https://image.tmdb.org/t/p/w185/lrSZUhcc2KBo24GBDTBdJCObura.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1745463",
       "letterboxdUrl": "https://letterboxd.com/search/Talk%20To%20A%20Stranger/",
@@ -1163,7 +1037,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.4265,
+      "popularity": 1.4195,
       "posterUrl": "https://image.tmdb.org/t/p/w185/uuriTltdNY7SXcJ8pAXbGMJwfzt.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1575941",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Other%20Side%20of%20Death/",
@@ -1183,7 +1057,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.8385,
+      "popularity": 1.7002,
       "posterUrl": "https://image.tmdb.org/t/p/w185/dkX1jiHArZqmH0muXMEWkJr85U3.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1745648",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Wandering%20Creature%20(And%20Other%20Tales)/",
@@ -1201,9 +1075,9 @@
           "kind": "streaming_drop"
         }
       ],
-      "voteAverage": 8.394,
-      "voteCount": 52,
-      "popularity": 6.1387,
+      "voteAverage": 8.391,
+      "voteCount": 55,
+      "popularity": 5.9344,
       "posterUrl": "https://image.tmdb.org/t/p/w185/zfFvltKHntGBupFuubx3r61v48e.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1515899",
       "letterboxdUrl": "https://letterboxd.com/search/Billie%20Eilish%20-%20Hit%20Me%20Hard%20and%20Soft%3A%20The%20Tour%20(Live%20in%203D)/",
@@ -1212,86 +1086,6 @@
         "Paramount Plus Essential",
         "Paramount+ Amazon Channel"
       ]
-    },
-    {
-      "id": 1748208,
-      "title": "No Love After the Friend Zone",
-      "releaseDate": "2026-08-06",
-      "firstDigitalDate": "2026-08-06",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-06",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 1.1938,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/1E6ZRCG4QiGLc6jNAIcYg71qwxi.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1748208",
-      "letterboxdUrl": "https://letterboxd.com/search/No%20Love%20After%20the%20Friend%20Zone/",
-      "providers": []
-    },
-    {
-      "id": 1746859,
-      "title": "The Idaho College Murders: Catching Kohberger",
-      "releaseDate": "2026-08-06",
-      "firstDigitalDate": "2026-08-06",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-06",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 0.5324,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/p5ZVcxNNbYHiv5FloXofmJLB61Z.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1746859",
-      "letterboxdUrl": "https://letterboxd.com/search/The%20Idaho%20College%20Murders%3A%20Catching%20Kohberger/",
-      "providers": []
-    },
-    {
-      "id": 1754463,
-      "title": "The Interview Show",
-      "releaseDate": "2026-08-06",
-      "firstDigitalDate": "2026-08-06",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-06",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 0.1346,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/7XTkc1CuWePz8gWuG2g2MG9fLAc.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1754463",
-      "letterboxdUrl": "https://letterboxd.com/search/The%20Interview%20Show/",
-      "providers": []
-    },
-    {
-      "id": 1746890,
-      "title": "Vietslam: Squashing the Cultural Gap",
-      "releaseDate": "2026-08-06",
-      "firstDigitalDate": "2026-08-06",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-06",
-          "note": "Content Advisory: violence, foul language, Flashing lights and strobing patterns might affect photosensitive viewers",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 9,
-      "voteCount": 1,
-      "popularity": 1.4179,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/n5hxl9jJnZzCIZdZJTYbc1MqHNc.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1746890",
-      "letterboxdUrl": "https://letterboxd.com/search/Vietslam%3A%20Squashing%20the%20Cultural%20Gap/",
-      "providers": []
     },
     {
       "id": 1465563,
@@ -1307,7 +1101,7 @@
       ],
       "voteAverage": 8.807,
       "voteCount": 122,
-      "popularity": 3.1653,
+      "popularity": 3.2852,
       "posterUrl": "https://image.tmdb.org/t/p/w185/o0MRVa3XMUUIxiSCZYaJ1jGXdk.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1465563",
       "letterboxdUrl": "https://letterboxd.com/search/A%20Poet/",
@@ -1328,9 +1122,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 6.788,
-      "voteCount": 99,
-      "popularity": 25.709,
+      "voteAverage": 6.924,
+      "voteCount": 105,
+      "popularity": 25.7815,
       "posterUrl": "https://image.tmdb.org/t/p/w185/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1263532",
       "letterboxdUrl": "https://letterboxd.com/search/Beast%20Race/",
@@ -1353,7 +1147,7 @@
       ],
       "voteAverage": 4,
       "voteCount": 3,
-      "popularity": 1.4013,
+      "popularity": 43.3391,
       "posterUrl": "https://image.tmdb.org/t/p/w185/7psYxnfWGwNCJvGLFOYQ197lXW5.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1308972",
       "letterboxdUrl": "https://letterboxd.com/search/Big%20Baby/",
@@ -1373,7 +1167,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.4856,
+      "popularity": 0.4785,
       "posterUrl": "https://image.tmdb.org/t/p/w185/bnXudFjySxvSjHSSt7LgiWvPHNS.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1744258",
       "letterboxdUrl": "https://letterboxd.com/search/Carne/",
@@ -1393,7 +1187,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 2.5722,
+      "popularity": 2.9521,
       "posterUrl": "https://image.tmdb.org/t/p/w185/p6eWbzo4ja3WaI1JeS0r7NHKWgv.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1745508",
       "letterboxdUrl": "https://letterboxd.com/search/Clogged%20Up/",
@@ -1413,7 +1207,7 @@
       ],
       "voteAverage": 5,
       "voteCount": 1,
-      "popularity": 1.3323,
+      "popularity": 1.3182,
       "posterUrl": "https://image.tmdb.org/t/p/w185/rq4QaGgW73BxjGeo8BfhB3igwdW.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1185175",
       "letterboxdUrl": "https://letterboxd.com/search/Demon%20Hunters/",
@@ -1433,7 +1227,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.4583,
+      "popularity": 1.5714,
       "posterUrl": "https://image.tmdb.org/t/p/w185/gDkdnPtZmczm3aEy1ef1vmR7jry.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1741078",
       "letterboxdUrl": "https://letterboxd.com/search/Oscar's%20Date/",
@@ -1453,7 +1247,7 @@
       ],
       "voteAverage": 10,
       "voteCount": 2,
-      "popularity": 1.11,
+      "popularity": 1.2596,
       "posterUrl": "https://image.tmdb.org/t/p/w185/gwUx5CtSLdprGvUkosbxukCtMlS.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1501392",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Box%20Trap/",
@@ -1471,9 +1265,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 6.592,
+      "voteAverage": 6.6,
       "voteCount": 141,
-      "popularity": 2.8448,
+      "popularity": 3.4488,
       "posterUrl": "https://image.tmdb.org/t/p/w185/gzTNITDGOjgrd3QPJfuqSYCjDls.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/961077",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Little%20Sister/",
@@ -1493,39 +1287,13 @@
       ],
       "voteAverage": 7.4,
       "voteCount": 104,
-      "popularity": 6.6134,
+      "popularity": 6.759,
       "posterUrl": "https://image.tmdb.org/t/p/w185/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1455079",
       "letterboxdUrl": "https://letterboxd.com/search/You%2C%20Me%20%26%20Tuscany/",
       "providers": [
         "Peacock Premium",
         "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 1292415,
-      "title": "Beast",
-      "releaseDate": "2026-08-08",
-      "firstDigitalDate": "2026-05-12",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-08",
-          "note": "Starz",
-          "kind": "streaming_drop"
-        }
-      ],
-      "voteAverage": 7.349,
-      "voteCount": 149,
-      "popularity": 20.9847,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1292415",
-      "letterboxdUrl": "https://letterboxd.com/search/Beast/",
-      "providers": [
-        "Philo",
-        "Starz Amazon Channel",
-        "Starz",
-        "Starz Apple TV channel",
-        "Starz Roku Premium Channel"
       ]
     },
     {
@@ -1542,7 +1310,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.601,
+      "popularity": 0.774,
       "posterUrl": "https://image.tmdb.org/t/p/w185/ru2XY6WOOndJE2RihYFD93rb2gc.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1523221",
       "letterboxdUrl": "https://letterboxd.com/search/5002%20Space%20Aliens/",
@@ -1562,7 +1330,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.2475,
+      "popularity": 0.503,
       "posterUrl": "https://image.tmdb.org/t/p/w185/mhkviPBVh8Ike81ljQkzCc8zCrs.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1716497",
       "letterboxdUrl": "https://letterboxd.com/search/A%20Bad%20Film/",
@@ -1582,7 +1350,7 @@
       ],
       "voteAverage": 5.747,
       "voteCount": 196,
-      "popularity": 8.1716,
+      "popularity": 8.9834,
       "posterUrl": "https://image.tmdb.org/t/p/w185/8oBbWxWDJrrDtNkmd0OzZpPFFUR.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1049942",
       "letterboxdUrl": "https://letterboxd.com/search/Bambi%3A%20The%20Reckoning/",
@@ -1607,9 +1375,9 @@
           "kind": "streaming_drop"
         }
       ],
-      "voteAverage": 8.665,
-      "voteCount": 4154,
-      "popularity": 78.8838,
+      "voteAverage": 8.663,
+      "voteCount": 4183,
+      "popularity": 70.8251,
       "posterUrl": "https://image.tmdb.org/t/p/w185/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/936075",
       "letterboxdUrl": "https://letterboxd.com/search/Michael/",
@@ -1619,6 +1387,29 @@
         "Starz",
         "Starz Apple TV channel",
         "Starz Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 1125701,
+      "title": "Midwinter Break",
+      "releaseDate": "2026-08-10",
+      "firstDigitalDate": "2026-03-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-10",
+          "note": "Netflix",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 7.208,
+      "voteCount": 24,
+      "popularity": 7.0617,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/vkMOruokVnD05xSiwI2hWBzG7UD.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1125701",
+      "letterboxdUrl": "https://letterboxd.com/search/Midwinter%20Break/",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -1635,7 +1426,7 @@
       ],
       "voteAverage": 5.725,
       "voteCount": 240,
-      "popularity": 5.3715,
+      "popularity": 5.3904,
       "posterUrl": "https://image.tmdb.org/t/p/w185/rhTG3gMlJa0nFlOS7WNKUJ2EDro.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1020414",
       "letterboxdUrl": "https://letterboxd.com/search/Peter%20Pan's%20Neverland%20Nightmare/",
@@ -1661,8 +1452,8 @@
         }
       ],
       "voteAverage": 10,
-      "voteCount": 1,
-      "popularity": 2.7833,
+      "voteCount": 2,
+      "popularity": 2.2361,
       "posterUrl": "https://image.tmdb.org/t/p/w185/3StKagvOBAranwkdYKgvVJps8c3.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1680087",
       "letterboxdUrl": "https://letterboxd.com/search/Popeye%204%20%3A%20Resurrection/",
@@ -1682,7 +1473,7 @@
       ],
       "voteAverage": 5.5,
       "voteCount": 2,
-      "popularity": 1.9266,
+      "popularity": 2.297,
       "posterUrl": "https://image.tmdb.org/t/p/w185/6DHNS74iO33ZoKYsNzvugpoYGp2.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1680084",
       "letterboxdUrl": "https://letterboxd.com/search/Popeye%20III%3A%20Requiem/",
@@ -1702,30 +1493,10 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.6282,
+      "popularity": 0.7259,
       "posterUrl": "https://image.tmdb.org/t/p/w185/7bygH7Wm8YS9TtRavfxsx7Be5XB.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1437799",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Pastor's%20Daughter/",
-      "providers": []
-    },
-    {
-      "id": 1521481,
-      "title": "Error",
-      "releaseDate": "2026-08-11",
-      "firstDigitalDate": "2026-08-11",
-      "monthDigitalEvents": [
-        {
-          "date": "2026-08-11",
-          "note": "",
-          "kind": "first_digital"
-        }
-      ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 2.2108,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/6hRrA5zBBj3AKw3nR76XAgJXeV4.jpg",
-      "tmdbUrl": "https://www.themoviedb.org/movie/1521481",
-      "letterboxdUrl": "https://letterboxd.com/search/Error/",
       "providers": []
     },
     {
@@ -1740,9 +1511,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 6.609,
-      "voteCount": 23,
-      "popularity": 9.8157,
+      "voteAverage": 6.6,
+      "voteCount": 25,
+      "popularity": 6.5379,
       "posterUrl": "https://image.tmdb.org/t/p/w185/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1476682",
       "letterboxdUrl": "https://letterboxd.com/search/Gail%20Daughtry%20and%20the%20Celebrity%20Sex%20Pass/",
@@ -1760,9 +1531,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.593,
-      "voteCount": 182,
-      "popularity": 106.3238,
+      "voteAverage": 7.583,
+      "voteCount": 200,
+      "popularity": 85.3467,
       "posterUrl": "https://image.tmdb.org/t/p/w185/tfgccePxnswMqhmtxafliLlcCVR.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1612018",
       "letterboxdUrl": "https://letterboxd.com/search/Jackass%3A%20Best%20and%20Last/",
@@ -1780,9 +1551,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.558,
-      "voteCount": 847,
-      "popularity": 196.9552,
+      "voteAverage": 7.56,
+      "voteCount": 908,
+      "popularity": 185.8889,
       "posterUrl": "https://image.tmdb.org/t/p/w185/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1315772",
       "letterboxdUrl": "https://letterboxd.com/search/Minions%20%26%20Monsters/",
@@ -1802,7 +1573,7 @@
       ],
       "voteAverage": 5.364,
       "voteCount": 11,
-      "popularity": 5.6855,
+      "popularity": 5.0629,
       "posterUrl": "https://image.tmdb.org/t/p/w185/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1596260",
       "letterboxdUrl": "https://letterboxd.com/search/Night%20Nurse/",
@@ -1822,7 +1593,7 @@
       ],
       "voteAverage": 7.038,
       "voteCount": 13,
-      "popularity": 5.8845,
+      "popularity": 5.6282,
       "posterUrl": "https://image.tmdb.org/t/p/w185/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1465557",
       "letterboxdUrl": "https://letterboxd.com/search/Our%20Hero%2C%20Balthazar/",
@@ -1842,7 +1613,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.5943,
+      "popularity": 0.5885,
       "posterUrl": "https://image.tmdb.org/t/p/w185/r9CZNfSBJf1teU68VKmJaB1V4Wv.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1296826",
       "letterboxdUrl": "https://letterboxd.com/search/Papercuts/",
@@ -1862,7 +1633,7 @@
       ],
       "voteAverage": 3,
       "voteCount": 1,
-      "popularity": 1.8315,
+      "popularity": 2.0619,
       "posterUrl": "https://image.tmdb.org/t/p/w185/6boCGBq6PYULSraA6PRUt9nuA93.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1470031",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Boy%20from%20Below/",
@@ -1880,9 +1651,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.3,
-      "voteCount": 328,
-      "popularity": 60.822,
+      "voteAverage": 7.325,
+      "voteCount": 355,
+      "popularity": 56.1328,
       "posterUrl": "https://image.tmdb.org/t/p/w185/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/950028",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Invite/",
@@ -1900,9 +1671,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 3.567,
+      "voteAverage": 7,
+      "voteCount": 1,
+      "popularity": 2.9265,
       "posterUrl": "https://image.tmdb.org/t/p/w185/3BmMIETSNNEYjk9Atg7id5Wnly4.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1465818",
       "letterboxdUrl": "https://letterboxd.com/search/Horsegirls/",
@@ -1920,9 +1691,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 8.149,
-      "voteCount": 37,
-      "popularity": 38.1048,
+      "voteAverage": 8.349,
+      "voteCount": 53,
+      "popularity": 37.708,
       "posterUrl": "https://image.tmdb.org/t/p/w185/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1616131",
       "letterboxdUrl": "https://letterboxd.com/search/A%20Child%20of%20My%20Own/",
@@ -1945,7 +1716,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 2.5251,
+      "popularity": 3.6379,
       "posterUrl": "https://image.tmdb.org/t/p/w185/77mqcdcsGCnqR3b8v3pZMp17hwZ.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1749023",
       "letterboxdUrl": "https://letterboxd.com/search/Tomb%20Quest/",
@@ -1965,8 +1736,8 @@
       ],
       "voteAverage": 7.8,
       "voteCount": 5,
-      "popularity": 6.1465,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/hD8nxSEstIGpxcaWl7Pd6SbwNXh.jpg",
+      "popularity": 5.2513,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1695225",
       "letterboxdUrl": "https://letterboxd.com/search/Travis%20Barker%3A%20Louder%20Than%20Fear/",
       "providers": [
@@ -1985,15 +1756,38 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 5.821,
-      "voteCount": 28,
-      "popularity": 10.1483,
+      "voteAverage": 5.776,
+      "voteCount": 29,
+      "popularity": 9.0718,
       "posterUrl": "https://image.tmdb.org/t/p/w185/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1392469",
       "letterboxdUrl": "https://letterboxd.com/search/Cocktail%202/",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 1397485,
+      "title": "Girls Like Girls",
+      "releaseDate": "2026-08-14",
+      "firstDigitalDate": "2026-07-07",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-14",
+          "note": "Peacock",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 7.25,
+      "voteCount": 40,
+      "popularity": 15.0388,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1397485",
+      "letterboxdUrl": "https://letterboxd.com/search/Girls%20Like%20Girls/",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -2010,7 +1804,7 @@
       ],
       "voteAverage": 10,
       "voteCount": 1,
-      "popularity": 0.5047,
+      "popularity": 0.7341,
       "posterUrl": "https://image.tmdb.org/t/p/w185/cSnWon4gN0WRttKTJLZc56PEIqC.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1740086",
       "letterboxdUrl": "https://letterboxd.com/search/Lover%20of%20a%20Ghost/",
@@ -2030,7 +1824,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.6406,
+      "popularity": 0.6123,
       "posterUrl": "https://image.tmdb.org/t/p/w185/2ZuRm69OI0crzUhm0ZtjohfT9fK.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1662191",
       "letterboxdUrl": "https://letterboxd.com/search/Portia/",
@@ -2050,7 +1844,7 @@
       ],
       "voteAverage": 5,
       "voteCount": 5,
-      "popularity": 3.9647,
+      "popularity": 3.856,
       "posterUrl": "https://image.tmdb.org/t/p/w185/z8WR5OvENBgRYgfujQACZPemLVX.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1407885",
       "letterboxdUrl": "https://letterboxd.com/search/Rainbow%20on%20Mars/",
@@ -2070,7 +1864,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.1079,
+      "popularity": 1.3732,
       "posterUrl": "https://image.tmdb.org/t/p/w185/qhO91asxTFD944TShh4VWZf2Eeg.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1653172",
       "letterboxdUrl": "https://letterboxd.com/search/Resentment/",
@@ -2090,11 +1884,14 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.4162,
+      "popularity": 1.5192,
       "posterUrl": "https://image.tmdb.org/t/p/w185/vp8QC9EAEhM13zPf6v29u7D5G2t.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1749501",
       "letterboxdUrl": "https://letterboxd.com/search/Romance%20in%20Christmas%20Town/",
-      "providers": []
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
     },
     {
       "id": 1339175,
@@ -2108,9 +1905,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 5.313,
+      "voteAverage": 5.3,
       "voteCount": 8,
-      "popularity": 7.3488,
+      "popularity": 5.5614,
       "posterUrl": "https://image.tmdb.org/t/p/w185/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1339175",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Birthday%20Party/",
@@ -2130,7 +1927,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.8259,
+      "popularity": 1.2801,
       "posterUrl": "https://image.tmdb.org/t/p/w185/n9XPhYHoZ1RlywdOxfwQceZDM1b.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1340562",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Easy%20Kind/",
@@ -2148,9 +1945,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 5.892,
-      "voteCount": 37,
-      "popularity": 12.18,
+      "voteAverage": 6,
+      "voteCount": 41,
+      "popularity": 9.1747,
       "posterUrl": "https://image.tmdb.org/t/p/w185/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1588838",
       "letterboxdUrl": "https://letterboxd.com/search/To%20the%20Max/",
@@ -2173,7 +1970,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.9522,
+      "popularity": 1.4261,
       "posterUrl": "https://image.tmdb.org/t/p/w185/byQPVhvpxIh1qwYhLPi9Y8PohA.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1532411",
       "letterboxdUrl": "https://letterboxd.com/search/Acronymity/",
@@ -2193,7 +1990,7 @@
       ],
       "voteAverage": 10,
       "voteCount": 2,
-      "popularity": 1.3598,
+      "popularity": 1.0742,
       "posterUrl": "https://image.tmdb.org/t/p/w185/dMeFBggRmBANCQ5Y2Xl6zzp6cwM.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1539708",
       "letterboxdUrl": "https://letterboxd.com/search/Curse%20of%20Crom%202%3A%20Crom's%20Fury/",
@@ -2213,7 +2010,7 @@
       ],
       "voteAverage": 7.7,
       "voteCount": 32,
-      "popularity": 3.4188,
+      "popularity": 3.4028,
       "posterUrl": "https://image.tmdb.org/t/p/w185/rZUjHv6b4y3GCC0V5JwfhtW7Jx6.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1154478",
       "letterboxdUrl": "https://letterboxd.com/search/I%20Am%20What%20I%20Am%202/",
@@ -2233,7 +2030,7 @@
       ],
       "voteAverage": 10,
       "voteCount": 1,
-      "popularity": 1.028,
+      "popularity": 1.4011,
       "posterUrl": "https://image.tmdb.org/t/p/w185/dcafZ6o5AY5mFg8wiJcfoSMpUQu.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1702961",
       "letterboxdUrl": "https://letterboxd.com/search/Prison%20and%20Time/",
@@ -2251,10 +2048,10 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 6.477,
+      "voteAverage": 6.4,
       "voteCount": 23,
-      "popularity": 5.4882,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
+      "popularity": 5.1677,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/aDBZ2PGgUbcGjyX7ZCXLOk4AFQH.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1399525",
       "letterboxdUrl": "https://letterboxd.com/search/Rose%20of%20Nevada/",
       "providers": []
@@ -2271,9 +2068,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 8.2,
-      "voteCount": 1571,
-      "popularity": 328.4932,
+      "voteAverage": 8.3,
+      "voteCount": 1712,
+      "popularity": 255.6312,
       "posterUrl": "https://image.tmdb.org/t/p/w185/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1084244",
       "letterboxdUrl": "https://letterboxd.com/search/Toy%20Story%205/",
@@ -2291,15 +2088,37 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.088,
-      "voteCount": 34,
-      "popularity": 44.3142,
+      "voteAverage": 7.44,
+      "voteCount": 50,
+      "popularity": 30.2282,
       "posterUrl": "https://image.tmdb.org/t/p/w185/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1418582",
       "letterboxdUrl": "https://letterboxd.com/search/Here%20the%20Whole%20Time/",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 957452,
+      "title": "The Crow",
+      "releaseDate": "2026-08-19",
+      "firstDigitalDate": "2024-09-13",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-19",
+          "note": "The Roku Channel",
+          "kind": "followup_digital"
+        }
+      ],
+      "voteAverage": 5.773,
+      "voteCount": 1326,
+      "popularity": 10.9571,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/957452",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Crow/",
+      "providers": [
+        "Starz Apple TV channel"
       ]
     },
     {
@@ -2316,7 +2135,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 2.4168,
+      "popularity": 2.13,
       "posterUrl": "https://image.tmdb.org/t/p/w185/l1yxG7See9ENzPSFABzdFI1gh4t.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1525909",
       "letterboxdUrl": "https://letterboxd.com/search/Keeping%20Company/",
@@ -2336,7 +2155,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.5452,
+      "popularity": 1.5783,
       "posterUrl": "https://image.tmdb.org/t/p/w185/2jtsrPXVTMkBWWdpsbuqwGX2HSk.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1752976",
       "letterboxdUrl": "https://letterboxd.com/search/Not%20Here/",
@@ -2356,7 +2175,7 @@
       ],
       "voteAverage": 6,
       "voteCount": 1,
-      "popularity": 1.3575,
+      "popularity": 1.6773,
       "posterUrl": "https://image.tmdb.org/t/p/w185/nQl2GGyMxi8WrwqI2SYJfa6dNEZ.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1552786",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Legend%20of%20Juan%20Jose%20Mundo/",
@@ -2376,7 +2195,7 @@
       ],
       "voteAverage": 7.4,
       "voteCount": 4,
-      "popularity": 2.3389,
+      "popularity": 2.8504,
       "posterUrl": "https://image.tmdb.org/t/p/w185/ec7ShDS3k2e5ZLchaRZOFYUegvf.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1517206",
       "letterboxdUrl": "https://letterboxd.com/search/Bouchra/",
@@ -2394,10 +2213,10 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 6.5,
-      "voteCount": 11,
-      "popularity": 47.6543,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/oTwwCsmWvHxj2olhCB2VEGcDUXD.jpg",
+      "voteAverage": 6.4,
+      "voteCount": 13,
+      "popularity": 88.8608,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1432706",
       "letterboxdUrl": "https://letterboxd.com/search/Bury%20the%20Devil/",
       "providers": []
@@ -2416,7 +2235,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.3931,
+      "popularity": 0.474,
       "posterUrl": "https://image.tmdb.org/t/p/w185/ir0LpgJBHUKJzO3LUDXubiGtTiT.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1744261",
       "letterboxdUrl": "https://letterboxd.com/search/Money%20Game/",
@@ -2434,15 +2253,37 @@
           "kind": "streaming_drop"
         }
       ],
-      "voteAverage": 5.73,
-      "voteCount": 159,
-      "popularity": 16.9911,
+      "voteAverage": 5.671,
+      "voteCount": 170,
+      "popularity": 15.6076,
       "posterUrl": "https://image.tmdb.org/t/p/w185/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1102883",
       "letterboxdUrl": "https://letterboxd.com/search/Mother%20Mary/",
       "providers": [
         "HBO Max Amazon Channel",
         "HBO Max"
+      ]
+    },
+    {
+      "id": 426063,
+      "title": "Nosferatu",
+      "releaseDate": "2026-08-21",
+      "firstDigitalDate": "2025-01-21",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-21",
+          "note": "Hulu",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 6.7,
+      "voteCount": 3909,
+      "popularity": 18.5734,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/426063",
+      "letterboxdUrl": "https://letterboxd.com/search/Nosferatu/",
+      "providers": [
+        "Hulu"
       ]
     },
     {
@@ -2459,7 +2300,7 @@
       ],
       "voteAverage": 10,
       "voteCount": 1,
-      "popularity": 1.4278,
+      "popularity": 1.4512,
       "posterUrl": "https://image.tmdb.org/t/p/w185/4Rwtlua1H8CTKQ7FMYj0C99fUXB.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1453343",
       "letterboxdUrl": "https://letterboxd.com/search/Pure%20Scum/",
@@ -2477,9 +2318,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 6.444,
-      "voteCount": 18,
-      "popularity": 108.8746,
+      "voteAverage": 5.929,
+      "voteCount": 28,
+      "popularity": 140.4852,
       "posterUrl": "https://image.tmdb.org/t/p/w185/tXsTtSgguTsk5J115jokwK55awF.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1130948",
       "letterboxdUrl": "https://letterboxd.com/search/Rosebush%20Pruning/",
@@ -2502,7 +2343,7 @@
       ],
       "voteAverage": 6.143,
       "voteCount": 7,
-      "popularity": 4.1453,
+      "popularity": 3.965,
       "posterUrl": "https://image.tmdb.org/t/p/w185/bV0HUg3xU0APddmja298tVOQNy1.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1254800",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Fence/",
@@ -2513,6 +2354,26 @@
         "AMC+ Roku Premium Channel",
         "AMC+"
       ]
+    },
+    {
+      "id": 1756187,
+      "title": "We Intend to Eat Pork | Hawaii: Rise",
+      "releaseDate": "2026-08-21",
+      "firstDigitalDate": "2026-06-11",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-21",
+          "note": "Released worldwide on Youtube",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 10,
+      "voteCount": 1,
+      "popularity": 0.2441,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/fiJa3jVpLdkoJBx3xgmehXM4LWr.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1756187",
+      "letterboxdUrl": "https://letterboxd.com/search/We%20Intend%20to%20Eat%20Pork%20%7C%20Hawaii%3A%20Rise/",
+      "providers": []
     },
     {
       "id": 1725577,
@@ -2528,7 +2389,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.1988,
+      "popularity": 1.182,
       "posterUrl": "https://image.tmdb.org/t/p/w185/ni1XHrRY9HUbuoqUKPBuLXwxG6b.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1725577",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Roast%20of%20Caveh%20Zahedi/",
@@ -2546,13 +2407,58 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.2,
-      "voteCount": 4,
-      "popularity": 4.0497,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/g19IoButQepcHPShmzfPGYOWfTq.jpg",
+      "voteAverage": 8.987,
+      "voteCount": 78,
+      "popularity": 113.3918,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/360qdtu2hLnqMu8SVHMywn420w1.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1560520",
       "letterboxdUrl": "https://letterboxd.com/search/Batman%3A%20Knightfall%20Part%201%3A%20Knightfall/",
       "providers": []
+    },
+    {
+      "id": 1336112,
+      "title": "Battersea",
+      "releaseDate": "2026-08-25",
+      "firstDigitalDate": "2026-08-25",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-25",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 10,
+      "voteCount": 1,
+      "popularity": 1.0243,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/qqMmw7Gg5zTIBR4mvR3DlhNfMrd.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1336112",
+      "letterboxdUrl": "https://letterboxd.com/search/Battersea/",
+      "providers": []
+    },
+    {
+      "id": 365177,
+      "title": "Borderlands",
+      "releaseDate": "2026-08-25",
+      "firstDigitalDate": "2024-08-30",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-25",
+          "note": "Peacock",
+          "kind": "streaming_drop"
+        }
+      ],
+      "voteAverage": 5.548,
+      "voteCount": 1556,
+      "popularity": 10.5071,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/365177",
+      "letterboxdUrl": "https://letterboxd.com/search/Borderlands/",
+      "providers": [
+        "Peacock Premium",
+        "YouTube TV",
+        "Starz Apple TV channel",
+        "Peacock Premium Plus"
+      ]
     },
     {
       "id": 1465814,
@@ -2566,9 +2472,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7,
-      "voteCount": 1,
-      "popularity": 1.5752,
+      "voteAverage": 7.5,
+      "voteCount": 2,
+      "popularity": 2.031,
       "posterUrl": "https://image.tmdb.org/t/p/w185/rh0BBFTBhcJ4rZEKduEZrE1FQal.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1465814",
       "letterboxdUrl": "https://letterboxd.com/search/Esta%20Isla/",
@@ -2586,9 +2492,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 5.1,
-      "voteCount": 48,
-      "popularity": 25.8813,
+      "voteAverage": 5.144,
+      "voteCount": 52,
+      "popularity": 29.4134,
       "posterUrl": "https://image.tmdb.org/t/p/w185/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1469342",
       "letterboxdUrl": "https://letterboxd.com/search/Her%20Private%20Hell/",
@@ -2606,10 +2512,10 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 6.5,
-      "voteCount": 18,
-      "popularity": 12.4431,
-      "posterUrl": "https://image.tmdb.org/t/p/w185/cWAVzTWm9xdc8skHH7h1vreUtcD.jpg",
+      "voteAverage": 6.73,
+      "voteCount": 61,
+      "popularity": 105.798,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/87513",
       "letterboxdUrl": "https://letterboxd.com/search/Motor%20City/",
       "providers": []
@@ -2626,9 +2532,9 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 7.052,
-      "voteCount": 48,
-      "popularity": 89.9603,
+      "voteAverage": 6.8,
+      "voteCount": 63,
+      "popularity": 160.359,
       "posterUrl": "https://image.tmdb.org/t/p/w185/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1232569",
       "letterboxdUrl": "https://letterboxd.com/search/Pinocchio%3A%20Unstrung/",
@@ -2648,7 +2554,7 @@
       ],
       "voteAverage": 4,
       "voteCount": 2,
-      "popularity": 2.2418,
+      "popularity": 2.2751,
       "posterUrl": "https://image.tmdb.org/t/p/w185/cZCpZBKsMcPB1CzoYXrZ9x2gibo.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1131087",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Deb/",
@@ -2668,7 +2574,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 1.3203,
+      "popularity": 1.2255,
       "posterUrl": "https://image.tmdb.org/t/p/w185/fYwF7caBVxNZHX97EgrEV1alA1U.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/855275",
       "letterboxdUrl": "https://letterboxd.com/search/The%20Unelected%20Statesman/",
@@ -2686,17 +2592,58 @@
           "kind": "streaming_drop"
         }
       ],
-      "voteAverage": 6.673,
-      "voteCount": 4449,
-      "popularity": 38.2075,
+      "voteAverage": 6.672,
+      "voteCount": 4462,
+      "popularity": 35.6289,
       "posterUrl": "https://image.tmdb.org/t/p/w185/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/912649",
       "letterboxdUrl": "https://letterboxd.com/search/Venom%3A%20The%20Last%20Dance/",
       "providers": [
         "Netflix",
+        "Disney Plus",
         "YouTube TV",
         "Netflix Standard with Ads"
       ]
+    },
+    {
+      "id": 1629063,
+      "title": "Downbeat",
+      "releaseDate": "2026-08-26",
+      "firstDigitalDate": "2026-08-26",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-26",
+          "note": "Letterboxd Video Store",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.4235,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/txMC2qiZHlMO3rHHqFGztLntomB.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1629063",
+      "letterboxdUrl": "https://letterboxd.com/search/Downbeat/",
+      "providers": []
+    },
+    {
+      "id": 1607137,
+      "title": "Encounter",
+      "releaseDate": "2026-08-27",
+      "firstDigitalDate": "2026-08-27",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-08-27",
+          "note": "New York Indie Short Awards - Online Event",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.1439,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/x3Fs3qj7DLBjMtgwP0JzEqmKNfe.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1607137",
+      "letterboxdUrl": "https://letterboxd.com/search/Encounter/",
+      "providers": []
     },
     {
       "id": 1530941,
@@ -2712,11 +2659,14 @@
       ],
       "voteAverage": 8,
       "voteCount": 2,
-      "popularity": 2.1276,
+      "popularity": 5.2121,
       "posterUrl": "https://image.tmdb.org/t/p/w185/ih3mFlEZzsN9uQT7P4Zvaq4GkSm.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1530941",
       "letterboxdUrl": "https://letterboxd.com/search/Gintama%20the%20Movie%202026%3A%20Yoshiwara%20in%20Flames/",
-      "providers": []
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
     },
     {
       "id": 1747300,
@@ -2732,7 +2682,7 @@
       ],
       "voteAverage": 0,
       "voteCount": 0,
-      "popularity": 0.4415,
+      "popularity": 0.521,
       "posterUrl": "https://image.tmdb.org/t/p/w185/Eyh5kwj7mftYgXQ9YLLYZMYY8q.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1747300",
       "letterboxdUrl": "https://letterboxd.com/search/L.A.%20Bars%20%26%20Cigarettes/",
@@ -2750,13 +2700,15 @@
           "kind": "first_digital"
         }
       ],
-      "voteAverage": 0,
-      "voteCount": 0,
-      "popularity": 0.9495,
+      "voteAverage": 6,
+      "voteCount": 1,
+      "popularity": 1.3147,
       "posterUrl": "https://image.tmdb.org/t/p/w185/ipAyHghFvnelEVHRMsUnsRXUwO4.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/1428766",
       "letterboxdUrl": "https://letterboxd.com/search/Penny%20Lane%20Is%20Dead/",
-      "providers": []
+      "providers": [
+        "AMC+ Roku Premium Channel"
+      ]
     },
     {
       "id": 910850,
@@ -2772,7 +2724,7 @@
       ],
       "voteAverage": 7.4,
       "voteCount": 10,
-      "popularity": 7.9594,
+      "popularity": 5.8907,
       "posterUrl": "https://image.tmdb.org/t/p/w185/6YkVpc9Dn1L2FHNlLOybpSKeGc7.jpg",
       "tmdbUrl": "https://www.themoviedb.org/movie/910850",
       "letterboxdUrl": "https://letterboxd.com/search/MOBILE%20SUIT%20GUNDAM%20HATHAWAY%20The%20Sorcery%20of%20Nymph%20Circe/",
@@ -2797,7 +2749,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.8525,
+          "popularity": 2.5463,
           "posterUrl": "https://image.tmdb.org/t/p/w185/c1zB6G9pBJ3gjhnM2M0ayGbALvh.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1735591",
           "letterboxdUrl": "https://letterboxd.com/search/AAA%20Verano%20de%20Esc%C3%A1ndalo%202026%20-%20Week%202/",
@@ -2817,7 +2769,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.5876,
+          "popularity": 0.6507,
           "posterUrl": "https://image.tmdb.org/t/p/w185/pmWuERLO9StXyHRn5xf8xaszsZP.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1742209",
           "letterboxdUrl": "https://letterboxd.com/search/Always%20Been%20You/",
@@ -2837,7 +2789,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.4736,
+          "popularity": 1.6804,
           "posterUrl": "https://image.tmdb.org/t/p/w185/9VPtrwiVJfwbvABBdeNpMyOjUXe.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1512014",
           "letterboxdUrl": "https://letterboxd.com/search/Bound%20By%20Lies/",
@@ -2857,7 +2809,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.7832,
+          "popularity": 0.9136,
           "posterUrl": "https://image.tmdb.org/t/p/w185/8ftqxuMhDNEscwH8N2j1KhAAcew.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1679282",
           "letterboxdUrl": "https://letterboxd.com/search/Death%2C%20Taxes%2C%20And%20Fantasy%20Baseball/",
@@ -2877,7 +2829,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.3723,
+          "popularity": 0.521,
           "posterUrl": "https://image.tmdb.org/t/p/w185/gtBAWvuWrmC3F3eLtQkhGZU68Kz.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1739653",
           "letterboxdUrl": "https://letterboxd.com/search/Great%20White%20Highway/",
@@ -2897,7 +2849,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.8439,
+          "popularity": 1.0938,
           "posterUrl": "",
           "tmdbUrl": "https://www.themoviedb.org/movie/1741617",
           "letterboxdUrl": "https://letterboxd.com/search/Hansel%20%26%20Gretel's%20Halloween/",
@@ -2917,7 +2869,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.517,
+          "popularity": 1.4732,
           "posterUrl": "https://image.tmdb.org/t/p/w185/3UJX8Wige0Gqb1FHPdcLKJJdd51.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1742537",
           "letterboxdUrl": "https://letterboxd.com/search/Hawkins%20Power%20%26%20Light/",
@@ -2937,7 +2889,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.5327,
+          "popularity": 0.8374,
           "posterUrl": "https://image.tmdb.org/t/p/w185/2ycivX755qfDFnU2WTT7KttGmdM.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1743661",
           "letterboxdUrl": "https://letterboxd.com/search/Horror%20Anthology%20Volume%202/",
@@ -2957,7 +2909,7 @@
           ],
           "voteAverage": 9,
           "voteCount": 2,
-          "popularity": 0.7942,
+          "popularity": 1.0099,
           "posterUrl": "https://image.tmdb.org/t/p/w185/mHJQCOICHVHm8pOKAGm0rk0Qidu.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1723402",
           "letterboxdUrl": "https://letterboxd.com/search/NJPW%20G1%20Climax%2036%20-%20Day%2010/",
@@ -2977,10 +2929,30 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.0642,
+          "popularity": 0.9977,
           "posterUrl": "https://image.tmdb.org/t/p/w185/yiBWqTLvyh0RuTYFgjGqJxKKdwa.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1535620",
           "letterboxdUrl": "https://letterboxd.com/search/Orange%20Torches/",
+          "providers": []
+        },
+        {
+          "id": 1741651,
+          "title": "Real People",
+          "releaseDate": "2026-08-01",
+          "firstDigitalDate": "2026-08-01",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-01",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 10,
+          "voteCount": 1,
+          "popularity": 0.6097,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/nE7IhGeNoPJv47aMDvcTkvzlH46.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1741651",
+          "letterboxdUrl": "https://letterboxd.com/search/Real%20People/",
           "providers": []
         },
         {
@@ -2997,7 +2969,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.401,
+          "popularity": 1.4716,
           "posterUrl": "https://image.tmdb.org/t/p/w185/9cEAP0JhoIQn6j09XJD2IIHD3gE.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1741670",
           "letterboxdUrl": "https://letterboxd.com/search/REW%2003/",
@@ -3015,9 +2987,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.355,
-          "voteCount": 256,
-          "popularity": 91.048,
+          "voteAverage": 7.4,
+          "voteCount": 275,
+          "popularity": 74.2665,
           "posterUrl": "https://image.tmdb.org/t/p/w185/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1307118",
           "letterboxdUrl": "https://letterboxd.com/search/Soulm8te/",
@@ -3037,7 +3009,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.503,
+          "popularity": 0.5316,
           "posterUrl": "https://image.tmdb.org/t/p/w185/rdkdUeD5Ndkyuh2nHkEiriCawc2.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1722441",
           "letterboxdUrl": "https://letterboxd.com/search/Summoned/",
@@ -3057,7 +3029,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.658,
+          "popularity": 1.137,
           "posterUrl": "https://image.tmdb.org/t/p/w185/6rJvmRUy4MuiUPXosy48irfNvBs.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1752483",
           "letterboxdUrl": "https://letterboxd.com/search/The%20House%20of%20Dr.%20Cross/",
@@ -3077,7 +3049,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.6989,
+          "popularity": 0.7358,
           "posterUrl": "https://image.tmdb.org/t/p/w185/em6CdLXaXkPEErKTWSJ2zHpoPZy.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1739654",
           "letterboxdUrl": "https://letterboxd.com/search/Thresher%20Shark%3A%20Stun%20to%20Kill/",
@@ -3100,7 +3072,7 @@
           ],
           "voteAverage": 6.286,
           "voteCount": 7,
-          "popularity": 3.4562,
+          "popularity": 3.0143,
           "posterUrl": "https://image.tmdb.org/t/p/w185/1hksIYHtsHCG70nZKbnrYBPk600.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1596278",
           "letterboxdUrl": "https://letterboxd.com/search/Time%20and%20Water/",
@@ -3110,26 +3082,6 @@
             "fuboTV",
             "YouTube TV"
           ]
-        },
-        {
-          "id": 1735049,
-          "title": "Tripolar",
-          "releaseDate": "2026-08-01",
-          "firstDigitalDate": "2026-08-01",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-01",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 0.3534,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/8XaSOm2S9UMxZnhUKyLODBUYoYz.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1735049",
-          "letterboxdUrl": "https://letterboxd.com/search/Tripolar/",
-          "providers": []
         },
         {
           "id": 1692150,
@@ -3145,7 +3097,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.0749,
+          "popularity": 1.2608,
           "posterUrl": "https://image.tmdb.org/t/p/w185/n7Bo6OyjkiJGjFmwUOnML1JbKww.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1692150",
           "letterboxdUrl": "https://letterboxd.com/search/We%20Want%20the%20Virus/",
@@ -3165,7 +3117,7 @@
           ],
           "voteAverage": 7.35,
           "voteCount": 10,
-          "popularity": 2.7814,
+          "popularity": 4.0745,
           "posterUrl": "https://image.tmdb.org/t/p/w185/adzFKQwbd0Cy6YIOxPwMIbiY2Hh.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1741109",
           "letterboxdUrl": "https://letterboxd.com/search/WWE%20SummerSlam%202026%3A%20Saturday/",
@@ -3185,7 +3137,7 @@
           ],
           "voteAverage": 8,
           "voteCount": 2,
-          "popularity": 2.3759,
+          "popularity": 2.3727,
           "posterUrl": "https://image.tmdb.org/t/p/w185/p3TqW1ID7hHsN549mOT5Yu8fO7W.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1298508",
           "letterboxdUrl": "https://letterboxd.com/search/WWE%20SummerSlam%202026%3A%20Saturday%20-%20Countdown/",
@@ -3210,7 +3162,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 2.777,
+          "popularity": 2.5865,
           "posterUrl": "https://image.tmdb.org/t/p/w185/okQ0wbOjrPXoaezqUhtrpapbeS3.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1741733",
           "letterboxdUrl": "https://letterboxd.com/search/Ankaha/",
@@ -3230,7 +3182,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.0462,
+          "popularity": 1.0745,
           "posterUrl": "https://image.tmdb.org/t/p/w185/zSbOlnRzA14W2Ir3cMiNw3xfnAd.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1742092",
           "letterboxdUrl": "https://letterboxd.com/search/Kylie%20Vincent's%20Last%20Day%20on%20Earth/",
@@ -3250,7 +3202,7 @@
           ],
           "voteAverage": 7.5,
           "voteCount": 2,
-          "popularity": 1.061,
+          "popularity": 0.9134,
           "posterUrl": "https://image.tmdb.org/t/p/w185/mHJQCOICHVHm8pOKAGm0rk0Qidu.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1723403",
           "letterboxdUrl": "https://letterboxd.com/search/NJPW%20G1%20Climax%2036%20-%20Day%2011/",
@@ -3270,7 +3222,7 @@
           ],
           "voteAverage": 7.778,
           "voteCount": 9,
-          "popularity": 3.1545,
+          "popularity": 4.0843,
           "posterUrl": "https://image.tmdb.org/t/p/w185/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1741545",
           "letterboxdUrl": "https://letterboxd.com/search/WWE%20SummerSlam%202026%3A%20Sunday/",
@@ -3290,7 +3242,7 @@
           ],
           "voteAverage": 6.5,
           "voteCount": 2,
-          "popularity": 1.5063,
+          "popularity": 1.2581,
           "posterUrl": "https://image.tmdb.org/t/p/w185/p3TqW1ID7hHsN549mOT5Yu8fO7W.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1298510",
           "letterboxdUrl": "https://letterboxd.com/search/WWE%20SummerSlam%202026%3A%20Sunday%20-%20Countdown/",
@@ -3313,9 +3265,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.111,
+          "voteAverage": 7.1,
           "voteCount": 9,
-          "popularity": 4.7777,
+          "popularity": 4.685,
           "posterUrl": "https://image.tmdb.org/t/p/w185/glYJbEs9MBPAGAj2EL0jFPlmEAT.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1470329",
           "letterboxdUrl": "https://letterboxd.com/search/Another%20World/",
@@ -3335,7 +3287,7 @@
           ],
           "voteAverage": 5,
           "voteCount": 1,
-          "popularity": 3.4569,
+          "popularity": 3.1041,
           "posterUrl": "https://image.tmdb.org/t/p/w185/qZ5yg9dXOOfljiBeRB3uZeziKcn.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1739573",
           "letterboxdUrl": "https://letterboxd.com/search/Bad%20Ramen/",
@@ -3353,9 +3305,9 @@
               "kind": "streaming_drop"
             }
           ],
-          "voteAverage": 6.6,
-          "voteCount": 1146,
-          "popularity": 20.0222,
+          "voteAverage": 6.589,
+          "voteCount": 1150,
+          "popularity": 23.2622,
           "posterUrl": "https://image.tmdb.org/t/p/w185/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1228246",
           "letterboxdUrl": "https://letterboxd.com/search/Five%20Nights%20at%20Freddy's%202/",
@@ -3378,7 +3330,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.2848,
+          "popularity": 1.3163,
           "posterUrl": "https://image.tmdb.org/t/p/w185/cQFC1KkVdXxC7qUjxKrnuoki6cj.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1743052",
           "letterboxdUrl": "https://letterboxd.com/search/Lost%20in%20Air/",
@@ -3398,7 +3350,7 @@
           ],
           "voteAverage": 8,
           "voteCount": 2,
-          "popularity": 0.6617,
+          "popularity": 0.8281,
           "posterUrl": "https://image.tmdb.org/t/p/w185/qTOzp065hn2qV6Ul2si104hwywF.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1279987",
           "letterboxdUrl": "https://letterboxd.com/search/Mercenaire/",
@@ -3416,9 +3368,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 5.857,
+          "voteAverage": 5.9,
           "voteCount": 7,
-          "popularity": 22.9224,
+          "popularity": 17.0907,
           "posterUrl": "https://image.tmdb.org/t/p/w185/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1740877",
           "letterboxdUrl": "https://letterboxd.com/search/Storm%20on%20Sesame%20Street/",
@@ -3442,7 +3394,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.0865,
+          "popularity": 1.9331,
           "posterUrl": "https://image.tmdb.org/t/p/w185/lx6Rf87h9S9tL6z4WpLTtFmGpo3.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1742818",
           "letterboxdUrl": "https://letterboxd.com/search/Turtle%20Rock/",
@@ -3467,7 +3419,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 4.28,
+          "popularity": 3.6754,
           "posterUrl": "https://image.tmdb.org/t/p/w185/lz1YWsyMeYPWzyVIdnuddkInJmT.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1718220",
           "letterboxdUrl": "https://letterboxd.com/search/Before%20Never/",
@@ -3487,7 +3439,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.6127,
+          "popularity": 0.718,
           "posterUrl": "",
           "tmdbUrl": "https://www.themoviedb.org/movie/1743072",
           "letterboxdUrl": "https://letterboxd.com/search/Bullseye/",
@@ -3507,7 +3459,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.3503,
+          "popularity": 0.5247,
           "posterUrl": "https://image.tmdb.org/t/p/w185/urdoR1wzhtDEu08CIkkMHUh5S7L.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1725988",
           "letterboxdUrl": "https://letterboxd.com/search/Down%20With%20The%20Entity's/",
@@ -3525,9 +3477,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.833,
-          "voteCount": 1260,
-          "popularity": 124.2903,
+          "voteAverage": 7.811,
+          "voteCount": 1309,
+          "popularity": 119.617,
           "posterUrl": "https://image.tmdb.org/t/p/w185/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1212763",
           "letterboxdUrl": "https://letterboxd.com/search/Evil%20Dead%20Burn/",
@@ -3547,7 +3499,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 2.175,
+          "popularity": 2.2657,
           "posterUrl": "https://image.tmdb.org/t/p/w185/pUcFOSiao10kjE8dzy8c1SQ0GIB.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1741346",
           "letterboxdUrl": "https://letterboxd.com/search/Evil%20Follows/",
@@ -3569,7 +3521,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.1581,
+          "popularity": 1.6543,
           "posterUrl": "https://image.tmdb.org/t/p/w185/71ctCrpPoHU29tdjBe3uOObjch0.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1749595",
           "letterboxdUrl": "https://letterboxd.com/search/I'm%20Going%20Full%20Frontal%20for%20My%20NYU%20Student%20Short%20Film/",
@@ -3577,7 +3529,7 @@
         },
         {
           "id": 730558,
-          "title": "Prisoners of Paradise (Ambleside)",
+          "title": "Prisoners of Paradise",
           "releaseDate": "2026-08-04",
           "firstDigitalDate": "2026-08-04",
           "monthDigitalEvents": [
@@ -3589,10 +3541,10 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 3.9475,
+          "popularity": 3.89,
           "posterUrl": "https://image.tmdb.org/t/p/w185/d11G12RZ0gkoQIzrIwpqmLiGQDk.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/730558",
-          "letterboxdUrl": "https://letterboxd.com/search/Prisoners%20of%20Paradise%20(Ambleside)/",
+          "letterboxdUrl": "https://letterboxd.com/search/Prisoners%20of%20Paradise/",
           "providers": []
         },
         {
@@ -3609,7 +3561,7 @@
           ],
           "voteAverage": 10,
           "voteCount": 1,
-          "popularity": 2.6194,
+          "popularity": 3.1412,
           "posterUrl": "https://image.tmdb.org/t/p/w185/lcUufwF6o3n6VF6PMLt0uUZLTOM.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1739639",
           "letterboxdUrl": "https://letterboxd.com/search/RAGEBAIT/",
@@ -3631,7 +3583,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.58,
+          "popularity": 0.5806,
           "posterUrl": "https://image.tmdb.org/t/p/w185/dGezSeYTCsF2i0ZnOEo71Yd2LVy.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1465988",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Degenerate%3A%20The%20Life%20and%20Films%20of%20Andy%20Milligan/",
@@ -3651,7 +3603,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.5441,
+          "popularity": 0.723,
           "posterUrl": "https://image.tmdb.org/t/p/w185/oB55YjYPAbDAwg7a7aBp6TLWsZn.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1743393",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Doorman/",
@@ -3671,7 +3623,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.3608,
+          "popularity": 0.4981,
           "posterUrl": "https://image.tmdb.org/t/p/w185/kmaTAvu5ASTEIyahciL6ctjBW8v.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1722109",
           "letterboxdUrl": "https://letterboxd.com/search/Time%20is%20of%20the%20Essence/",
@@ -3682,26 +3634,6 @@
     {
       "date": "2026-08-05",
       "movies": [
-        {
-          "id": 1743827,
-          "title": "AEW Grand Slam Mexico",
-          "releaseDate": "2026-08-05",
-          "firstDigitalDate": "2026-08-05",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-05",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 0.5757,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/mx8YQKsf7nejtdhR1OaNvdwI8Wk.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1743827",
-          "letterboxdUrl": "https://letterboxd.com/search/AEW%20Grand%20Slam%20Mexico/",
-          "providers": []
-        },
         {
           "id": 1644758,
           "title": "Angel (iii)",
@@ -3716,34 +3648,11 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.4944,
+          "popularity": 0.6191,
           "posterUrl": "https://image.tmdb.org/t/p/w185/nOwluAwDh2iYRey8JhEchCc3XDz.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1644758",
           "letterboxdUrl": "https://letterboxd.com/search/Angel%20(iii)/",
           "providers": []
-        },
-        {
-          "id": 1728056,
-          "title": "Big Chicken: A Fast Food Conspiracy",
-          "releaseDate": "2026-08-05",
-          "firstDigitalDate": "2026-08-05",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-05",
-              "note": "Netflix",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 5.773,
-          "voteCount": 11,
-          "popularity": 6.7706,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1728056",
-          "letterboxdUrl": "https://letterboxd.com/search/Big%20Chicken%3A%20A%20Fast%20Food%20Conspiracy/",
-          "providers": [
-            "Netflix",
-            "Netflix Standard with Ads"
-          ]
         },
         {
           "id": 1744555,
@@ -3759,7 +3668,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 2.3498,
+          "popularity": 2.2215,
           "posterUrl": "https://image.tmdb.org/t/p/w185/nECyDJ6ic3I70cHuXZwzZULMVJB.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1744555",
           "letterboxdUrl": "https://letterboxd.com/search/Field%20Mouse/",
@@ -3779,54 +3688,11 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.4516,
+          "popularity": 0.5418,
           "posterUrl": "https://image.tmdb.org/t/p/w185/7ZlaXN6Rij8aiFIWlC0iw2ZnV3m.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1744173",
           "letterboxdUrl": "https://letterboxd.com/search/Forever%2C%20Obviously/",
           "providers": []
-        },
-        {
-          "id": 1743159,
-          "title": "Heretical Girls",
-          "releaseDate": "2026-08-05",
-          "firstDigitalDate": "2026-08-05",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-05",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 2.2594,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/fPKfBNsn6o32PPcKmVRd3dy80JZ.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1743159",
-          "letterboxdUrl": "https://letterboxd.com/search/Heretical%20Girls/",
-          "providers": []
-        },
-        {
-          "id": 1421594,
-          "title": "Inside the Trustor Scandal",
-          "releaseDate": "2026-08-05",
-          "firstDigitalDate": "2026-08-05",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-05",
-              "note": "Netflix",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 5.7,
-          "voteCount": 7,
-          "popularity": 5.5114,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/fxUQUbjqihbfTDMKGdUsVGbw01g.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1421594",
-          "letterboxdUrl": "https://letterboxd.com/search/Inside%20the%20Trustor%20Scandal/",
-          "providers": [
-            "Netflix",
-            "Netflix Standard with Ads"
-          ]
         },
         {
           "id": 1733048,
@@ -3842,7 +3708,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 2.06,
+          "popularity": 2.439,
           "posterUrl": "https://image.tmdb.org/t/p/w185/wIUidKkjnGJgUzVxUX4yHjnMCU2.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1733048",
           "letterboxdUrl": "https://letterboxd.com/search/Last%20Viewing/",
@@ -3862,30 +3728,10 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 2.6552,
+          "popularity": 3.0773,
           "posterUrl": "",
           "tmdbUrl": "https://www.themoviedb.org/movie/1745295",
           "letterboxdUrl": "https://letterboxd.com/search/No%20Contact/",
-          "providers": []
-        },
-        {
-          "id": 1718286,
-          "title": "Pleura",
-          "releaseDate": "2026-08-05",
-          "firstDigitalDate": "2026-08-05",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-05",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 0.6852,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/nrRQxUitphhoDHZZXCr2qb7iMpF.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1718286",
-          "letterboxdUrl": "https://letterboxd.com/search/Pleura/",
           "providers": []
         },
         {
@@ -3902,30 +3748,10 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.4089,
+          "popularity": 0.5331,
           "posterUrl": "https://image.tmdb.org/t/p/w185/4u4GjOpM5n2SpEUl2DrtGRCJytT.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1746638",
           "letterboxdUrl": "https://letterboxd.com/search/Rocket%20USA%20Experiments%20%231/",
-          "providers": []
-        },
-        {
-          "id": 1742535,
-          "title": "Song of the Visitor",
-          "releaseDate": "2026-08-05",
-          "firstDigitalDate": "2026-08-05",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-05",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 10,
-          "voteCount": 1,
-          "popularity": 0.4311,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/8ps8n1Etfg4uGWA7aRFxgND4uOW.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1742535",
-          "letterboxdUrl": "https://letterboxd.com/search/Song%20of%20the%20Visitor/",
           "providers": []
         },
         {
@@ -3942,7 +3768,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.4825,
+          "popularity": 0.5512,
           "posterUrl": "https://image.tmdb.org/t/p/w185/lrSZUhcc2KBo24GBDTBdJCObura.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1745463",
           "letterboxdUrl": "https://letterboxd.com/search/Talk%20To%20A%20Stranger/",
@@ -3962,7 +3788,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.4265,
+          "popularity": 1.4195,
           "posterUrl": "https://image.tmdb.org/t/p/w185/uuriTltdNY7SXcJ8pAXbGMJwfzt.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1575941",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Other%20Side%20of%20Death/",
@@ -3982,7 +3808,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.8385,
+          "popularity": 1.7002,
           "posterUrl": "https://image.tmdb.org/t/p/w185/dkX1jiHArZqmH0muXMEWkJr85U3.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1745648",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Wandering%20Creature%20(And%20Other%20Tales)/",
@@ -4005,9 +3831,9 @@
               "kind": "streaming_drop"
             }
           ],
-          "voteAverage": 8.394,
-          "voteCount": 52,
-          "popularity": 6.1387,
+          "voteAverage": 8.391,
+          "voteCount": 55,
+          "popularity": 5.9344,
           "posterUrl": "https://image.tmdb.org/t/p/w185/zfFvltKHntGBupFuubx3r61v48e.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1515899",
           "letterboxdUrl": "https://letterboxd.com/search/Billie%20Eilish%20-%20Hit%20Me%20Hard%20and%20Soft%3A%20The%20Tour%20(Live%20in%203D)/",
@@ -4016,86 +3842,6 @@
             "Paramount Plus Essential",
             "Paramount+ Amazon Channel"
           ]
-        },
-        {
-          "id": 1748208,
-          "title": "No Love After the Friend Zone",
-          "releaseDate": "2026-08-06",
-          "firstDigitalDate": "2026-08-06",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-06",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 1.1938,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/1E6ZRCG4QiGLc6jNAIcYg71qwxi.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1748208",
-          "letterboxdUrl": "https://letterboxd.com/search/No%20Love%20After%20the%20Friend%20Zone/",
-          "providers": []
-        },
-        {
-          "id": 1746859,
-          "title": "The Idaho College Murders: Catching Kohberger",
-          "releaseDate": "2026-08-06",
-          "firstDigitalDate": "2026-08-06",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-06",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 0.5324,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/p5ZVcxNNbYHiv5FloXofmJLB61Z.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1746859",
-          "letterboxdUrl": "https://letterboxd.com/search/The%20Idaho%20College%20Murders%3A%20Catching%20Kohberger/",
-          "providers": []
-        },
-        {
-          "id": 1754463,
-          "title": "The Interview Show",
-          "releaseDate": "2026-08-06",
-          "firstDigitalDate": "2026-08-06",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-06",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 0.1346,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/7XTkc1CuWePz8gWuG2g2MG9fLAc.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1754463",
-          "letterboxdUrl": "https://letterboxd.com/search/The%20Interview%20Show/",
-          "providers": []
-        },
-        {
-          "id": 1746890,
-          "title": "Vietslam: Squashing the Cultural Gap",
-          "releaseDate": "2026-08-06",
-          "firstDigitalDate": "2026-08-06",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-06",
-              "note": "Content Advisory: violence, foul language, Flashing lights and strobing patterns might affect photosensitive viewers",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 9,
-          "voteCount": 1,
-          "popularity": 1.4179,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/n5hxl9jJnZzCIZdZJTYbc1MqHNc.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1746890",
-          "letterboxdUrl": "https://letterboxd.com/search/Vietslam%3A%20Squashing%20the%20Cultural%20Gap/",
-          "providers": []
         }
       ]
     },
@@ -4116,7 +3862,7 @@
           ],
           "voteAverage": 8.807,
           "voteCount": 122,
-          "popularity": 3.1653,
+          "popularity": 3.2852,
           "posterUrl": "https://image.tmdb.org/t/p/w185/o0MRVa3XMUUIxiSCZYaJ1jGXdk.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1465563",
           "letterboxdUrl": "https://letterboxd.com/search/A%20Poet/",
@@ -4137,9 +3883,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 6.788,
-          "voteCount": 99,
-          "popularity": 25.709,
+          "voteAverage": 6.924,
+          "voteCount": 105,
+          "popularity": 25.7815,
           "posterUrl": "https://image.tmdb.org/t/p/w185/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1263532",
           "letterboxdUrl": "https://letterboxd.com/search/Beast%20Race/",
@@ -4162,7 +3908,7 @@
           ],
           "voteAverage": 4,
           "voteCount": 3,
-          "popularity": 1.4013,
+          "popularity": 43.3391,
           "posterUrl": "https://image.tmdb.org/t/p/w185/7psYxnfWGwNCJvGLFOYQ197lXW5.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1308972",
           "letterboxdUrl": "https://letterboxd.com/search/Big%20Baby/",
@@ -4182,7 +3928,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.4856,
+          "popularity": 0.4785,
           "posterUrl": "https://image.tmdb.org/t/p/w185/bnXudFjySxvSjHSSt7LgiWvPHNS.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1744258",
           "letterboxdUrl": "https://letterboxd.com/search/Carne/",
@@ -4202,7 +3948,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 2.5722,
+          "popularity": 2.9521,
           "posterUrl": "https://image.tmdb.org/t/p/w185/p6eWbzo4ja3WaI1JeS0r7NHKWgv.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1745508",
           "letterboxdUrl": "https://letterboxd.com/search/Clogged%20Up/",
@@ -4222,7 +3968,7 @@
           ],
           "voteAverage": 5,
           "voteCount": 1,
-          "popularity": 1.3323,
+          "popularity": 1.3182,
           "posterUrl": "https://image.tmdb.org/t/p/w185/rq4QaGgW73BxjGeo8BfhB3igwdW.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1185175",
           "letterboxdUrl": "https://letterboxd.com/search/Demon%20Hunters/",
@@ -4242,7 +3988,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.4583,
+          "popularity": 1.5714,
           "posterUrl": "https://image.tmdb.org/t/p/w185/gDkdnPtZmczm3aEy1ef1vmR7jry.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1741078",
           "letterboxdUrl": "https://letterboxd.com/search/Oscar's%20Date/",
@@ -4262,7 +4008,7 @@
           ],
           "voteAverage": 10,
           "voteCount": 2,
-          "popularity": 1.11,
+          "popularity": 1.2596,
           "posterUrl": "https://image.tmdb.org/t/p/w185/gwUx5CtSLdprGvUkosbxukCtMlS.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1501392",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Box%20Trap/",
@@ -4280,9 +4026,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 6.592,
+          "voteAverage": 6.6,
           "voteCount": 141,
-          "popularity": 2.8448,
+          "popularity": 3.4488,
           "posterUrl": "https://image.tmdb.org/t/p/w185/gzTNITDGOjgrd3QPJfuqSYCjDls.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/961077",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Little%20Sister/",
@@ -4302,44 +4048,13 @@
           ],
           "voteAverage": 7.4,
           "voteCount": 104,
-          "popularity": 6.6134,
+          "popularity": 6.759,
           "posterUrl": "https://image.tmdb.org/t/p/w185/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1455079",
           "letterboxdUrl": "https://letterboxd.com/search/You%2C%20Me%20%26%20Tuscany/",
           "providers": [
             "Peacock Premium",
             "Peacock Premium Plus"
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-08",
-      "movies": [
-        {
-          "id": 1292415,
-          "title": "Beast",
-          "releaseDate": "2026-08-08",
-          "firstDigitalDate": "2026-05-12",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-08",
-              "note": "Starz",
-              "kind": "streaming_drop"
-            }
-          ],
-          "voteAverage": 7.349,
-          "voteCount": 149,
-          "popularity": 20.9847,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1292415",
-          "letterboxdUrl": "https://letterboxd.com/search/Beast/",
-          "providers": [
-            "Philo",
-            "Starz Amazon Channel",
-            "Starz",
-            "Starz Apple TV channel",
-            "Starz Roku Premium Channel"
           ]
         }
       ]
@@ -4361,7 +4076,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.601,
+          "popularity": 0.774,
           "posterUrl": "https://image.tmdb.org/t/p/w185/ru2XY6WOOndJE2RihYFD93rb2gc.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1523221",
           "letterboxdUrl": "https://letterboxd.com/search/5002%20Space%20Aliens/",
@@ -4381,7 +4096,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.2475,
+          "popularity": 0.503,
           "posterUrl": "https://image.tmdb.org/t/p/w185/mhkviPBVh8Ike81ljQkzCc8zCrs.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1716497",
           "letterboxdUrl": "https://letterboxd.com/search/A%20Bad%20Film/",
@@ -4401,7 +4116,7 @@
           ],
           "voteAverage": 5.747,
           "voteCount": 196,
-          "popularity": 8.1716,
+          "popularity": 8.9834,
           "posterUrl": "https://image.tmdb.org/t/p/w185/8oBbWxWDJrrDtNkmd0OzZpPFFUR.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1049942",
           "letterboxdUrl": "https://letterboxd.com/search/Bambi%3A%20The%20Reckoning/",
@@ -4426,9 +4141,9 @@
               "kind": "streaming_drop"
             }
           ],
-          "voteAverage": 8.665,
-          "voteCount": 4154,
-          "popularity": 78.8838,
+          "voteAverage": 8.663,
+          "voteCount": 4183,
+          "popularity": 70.8251,
           "posterUrl": "https://image.tmdb.org/t/p/w185/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/936075",
           "letterboxdUrl": "https://letterboxd.com/search/Michael/",
@@ -4438,6 +4153,29 @@
             "Starz",
             "Starz Apple TV channel",
             "Starz Roku Premium Channel"
+          ]
+        },
+        {
+          "id": 1125701,
+          "title": "Midwinter Break",
+          "releaseDate": "2026-08-10",
+          "firstDigitalDate": "2026-03-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-10",
+              "note": "Netflix",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 7.208,
+          "voteCount": 24,
+          "popularity": 7.0617,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/vkMOruokVnD05xSiwI2hWBzG7UD.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1125701",
+          "letterboxdUrl": "https://letterboxd.com/search/Midwinter%20Break/",
+          "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
           ]
         },
         {
@@ -4454,7 +4192,7 @@
           ],
           "voteAverage": 5.725,
           "voteCount": 240,
-          "popularity": 5.3715,
+          "popularity": 5.3904,
           "posterUrl": "https://image.tmdb.org/t/p/w185/rhTG3gMlJa0nFlOS7WNKUJ2EDro.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1020414",
           "letterboxdUrl": "https://letterboxd.com/search/Peter%20Pan's%20Neverland%20Nightmare/",
@@ -4480,8 +4218,8 @@
             }
           ],
           "voteAverage": 10,
-          "voteCount": 1,
-          "popularity": 2.7833,
+          "voteCount": 2,
+          "popularity": 2.2361,
           "posterUrl": "https://image.tmdb.org/t/p/w185/3StKagvOBAranwkdYKgvVJps8c3.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1680087",
           "letterboxdUrl": "https://letterboxd.com/search/Popeye%204%20%3A%20Resurrection/",
@@ -4501,7 +4239,7 @@
           ],
           "voteAverage": 5.5,
           "voteCount": 2,
-          "popularity": 1.9266,
+          "popularity": 2.297,
           "posterUrl": "https://image.tmdb.org/t/p/w185/6DHNS74iO33ZoKYsNzvugpoYGp2.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1680084",
           "letterboxdUrl": "https://letterboxd.com/search/Popeye%20III%3A%20Requiem/",
@@ -4521,7 +4259,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.6282,
+          "popularity": 0.7259,
           "posterUrl": "https://image.tmdb.org/t/p/w185/7bygH7Wm8YS9TtRavfxsx7Be5XB.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1437799",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Pastor's%20Daughter/",
@@ -4532,26 +4270,6 @@
     {
       "date": "2026-08-11",
       "movies": [
-        {
-          "id": 1521481,
-          "title": "Error",
-          "releaseDate": "2026-08-11",
-          "firstDigitalDate": "2026-08-11",
-          "monthDigitalEvents": [
-            {
-              "date": "2026-08-11",
-              "note": "",
-              "kind": "first_digital"
-            }
-          ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 2.2108,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/6hRrA5zBBj3AKw3nR76XAgJXeV4.jpg",
-          "tmdbUrl": "https://www.themoviedb.org/movie/1521481",
-          "letterboxdUrl": "https://letterboxd.com/search/Error/",
-          "providers": []
-        },
         {
           "id": 1476682,
           "title": "Gail Daughtry and the Celebrity Sex Pass",
@@ -4564,9 +4282,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 6.609,
-          "voteCount": 23,
-          "popularity": 9.8157,
+          "voteAverage": 6.6,
+          "voteCount": 25,
+          "popularity": 6.5379,
           "posterUrl": "https://image.tmdb.org/t/p/w185/98T4bnMjJs71WOVZoeY8edZhfgZ.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1476682",
           "letterboxdUrl": "https://letterboxd.com/search/Gail%20Daughtry%20and%20the%20Celebrity%20Sex%20Pass/",
@@ -4584,9 +4302,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.593,
-          "voteCount": 182,
-          "popularity": 106.3238,
+          "voteAverage": 7.583,
+          "voteCount": 200,
+          "popularity": 85.3467,
           "posterUrl": "https://image.tmdb.org/t/p/w185/tfgccePxnswMqhmtxafliLlcCVR.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1612018",
           "letterboxdUrl": "https://letterboxd.com/search/Jackass%3A%20Best%20and%20Last/",
@@ -4604,9 +4322,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.558,
-          "voteCount": 847,
-          "popularity": 196.9552,
+          "voteAverage": 7.56,
+          "voteCount": 908,
+          "popularity": 185.8889,
           "posterUrl": "https://image.tmdb.org/t/p/w185/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1315772",
           "letterboxdUrl": "https://letterboxd.com/search/Minions%20%26%20Monsters/",
@@ -4626,7 +4344,7 @@
           ],
           "voteAverage": 5.364,
           "voteCount": 11,
-          "popularity": 5.6855,
+          "popularity": 5.0629,
           "posterUrl": "https://image.tmdb.org/t/p/w185/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1596260",
           "letterboxdUrl": "https://letterboxd.com/search/Night%20Nurse/",
@@ -4646,7 +4364,7 @@
           ],
           "voteAverage": 7.038,
           "voteCount": 13,
-          "popularity": 5.8845,
+          "popularity": 5.6282,
           "posterUrl": "https://image.tmdb.org/t/p/w185/mxVTarvl5OLoU9YWIYygby6R0KI.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1465557",
           "letterboxdUrl": "https://letterboxd.com/search/Our%20Hero%2C%20Balthazar/",
@@ -4666,7 +4384,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.5943,
+          "popularity": 0.5885,
           "posterUrl": "https://image.tmdb.org/t/p/w185/r9CZNfSBJf1teU68VKmJaB1V4Wv.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1296826",
           "letterboxdUrl": "https://letterboxd.com/search/Papercuts/",
@@ -4686,7 +4404,7 @@
           ],
           "voteAverage": 3,
           "voteCount": 1,
-          "popularity": 1.8315,
+          "popularity": 2.0619,
           "posterUrl": "https://image.tmdb.org/t/p/w185/6boCGBq6PYULSraA6PRUt9nuA93.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1470031",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Boy%20from%20Below/",
@@ -4704,9 +4422,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.3,
-          "voteCount": 328,
-          "popularity": 60.822,
+          "voteAverage": 7.325,
+          "voteCount": 355,
+          "popularity": 56.1328,
           "posterUrl": "https://image.tmdb.org/t/p/w185/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/950028",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Invite/",
@@ -4729,9 +4447,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 3.567,
+          "voteAverage": 7,
+          "voteCount": 1,
+          "popularity": 2.9265,
           "posterUrl": "https://image.tmdb.org/t/p/w185/3BmMIETSNNEYjk9Atg7id5Wnly4.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1465818",
           "letterboxdUrl": "https://letterboxd.com/search/Horsegirls/",
@@ -4754,9 +4472,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 8.149,
-          "voteCount": 37,
-          "popularity": 38.1048,
+          "voteAverage": 8.349,
+          "voteCount": 53,
+          "popularity": 37.708,
           "posterUrl": "https://image.tmdb.org/t/p/w185/4ALVUEb2PCIFDNCD88xTFJFCJ3q.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1616131",
           "letterboxdUrl": "https://letterboxd.com/search/A%20Child%20of%20My%20Own/",
@@ -4779,7 +4497,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 2.5251,
+          "popularity": 3.6379,
           "posterUrl": "https://image.tmdb.org/t/p/w185/77mqcdcsGCnqR3b8v3pZMp17hwZ.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1749023",
           "letterboxdUrl": "https://letterboxd.com/search/Tomb%20Quest/",
@@ -4799,8 +4517,8 @@
           ],
           "voteAverage": 7.8,
           "voteCount": 5,
-          "popularity": 6.1465,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/hD8nxSEstIGpxcaWl7Pd6SbwNXh.jpg",
+          "popularity": 5.2513,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/nFjdTYHi7tRjijf3utArceQFtRi.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1695225",
           "letterboxdUrl": "https://letterboxd.com/search/Travis%20Barker%3A%20Louder%20Than%20Fear/",
           "providers": [
@@ -4824,15 +4542,38 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 5.821,
-          "voteCount": 28,
-          "popularity": 10.1483,
+          "voteAverage": 5.776,
+          "voteCount": 29,
+          "popularity": 9.0718,
           "posterUrl": "https://image.tmdb.org/t/p/w185/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1392469",
           "letterboxdUrl": "https://letterboxd.com/search/Cocktail%202/",
           "providers": [
             "Netflix",
             "Netflix Standard with Ads"
+          ]
+        },
+        {
+          "id": 1397485,
+          "title": "Girls Like Girls",
+          "releaseDate": "2026-08-14",
+          "firstDigitalDate": "2026-07-07",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-14",
+              "note": "Peacock",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 7.25,
+          "voteCount": 40,
+          "popularity": 15.0388,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1397485",
+          "letterboxdUrl": "https://letterboxd.com/search/Girls%20Like%20Girls/",
+          "providers": [
+            "Peacock Premium",
+            "Peacock Premium Plus"
           ]
         },
         {
@@ -4849,7 +4590,7 @@
           ],
           "voteAverage": 10,
           "voteCount": 1,
-          "popularity": 0.5047,
+          "popularity": 0.7341,
           "posterUrl": "https://image.tmdb.org/t/p/w185/cSnWon4gN0WRttKTJLZc56PEIqC.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1740086",
           "letterboxdUrl": "https://letterboxd.com/search/Lover%20of%20a%20Ghost/",
@@ -4869,7 +4610,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.6406,
+          "popularity": 0.6123,
           "posterUrl": "https://image.tmdb.org/t/p/w185/2ZuRm69OI0crzUhm0ZtjohfT9fK.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1662191",
           "letterboxdUrl": "https://letterboxd.com/search/Portia/",
@@ -4889,7 +4630,7 @@
           ],
           "voteAverage": 5,
           "voteCount": 5,
-          "popularity": 3.9647,
+          "popularity": 3.856,
           "posterUrl": "https://image.tmdb.org/t/p/w185/z8WR5OvENBgRYgfujQACZPemLVX.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1407885",
           "letterboxdUrl": "https://letterboxd.com/search/Rainbow%20on%20Mars/",
@@ -4909,7 +4650,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.1079,
+          "popularity": 1.3732,
           "posterUrl": "https://image.tmdb.org/t/p/w185/qhO91asxTFD944TShh4VWZf2Eeg.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1653172",
           "letterboxdUrl": "https://letterboxd.com/search/Resentment/",
@@ -4929,11 +4670,14 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.4162,
+          "popularity": 1.5192,
           "posterUrl": "https://image.tmdb.org/t/p/w185/vp8QC9EAEhM13zPf6v29u7D5G2t.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1749501",
           "letterboxdUrl": "https://letterboxd.com/search/Romance%20in%20Christmas%20Town/",
-          "providers": []
+          "providers": [
+            "Amazon Prime Video",
+            "Amazon Prime Video with Ads"
+          ]
         },
         {
           "id": 1339175,
@@ -4947,9 +4691,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 5.313,
+          "voteAverage": 5.3,
           "voteCount": 8,
-          "popularity": 7.3488,
+          "popularity": 5.5614,
           "posterUrl": "https://image.tmdb.org/t/p/w185/sXN4IvB4hM2AYYx9BhdzhokrjvH.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1339175",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Birthday%20Party/",
@@ -4969,7 +4713,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.8259,
+          "popularity": 1.2801,
           "posterUrl": "https://image.tmdb.org/t/p/w185/n9XPhYHoZ1RlywdOxfwQceZDM1b.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1340562",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Easy%20Kind/",
@@ -4987,9 +4731,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 5.892,
-          "voteCount": 37,
-          "popularity": 12.18,
+          "voteAverage": 6,
+          "voteCount": 41,
+          "popularity": 9.1747,
           "posterUrl": "https://image.tmdb.org/t/p/w185/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1588838",
           "letterboxdUrl": "https://letterboxd.com/search/To%20the%20Max/",
@@ -5017,7 +4761,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.9522,
+          "popularity": 1.4261,
           "posterUrl": "https://image.tmdb.org/t/p/w185/byQPVhvpxIh1qwYhLPi9Y8PohA.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1532411",
           "letterboxdUrl": "https://letterboxd.com/search/Acronymity/",
@@ -5037,7 +4781,7 @@
           ],
           "voteAverage": 10,
           "voteCount": 2,
-          "popularity": 1.3598,
+          "popularity": 1.0742,
           "posterUrl": "https://image.tmdb.org/t/p/w185/dMeFBggRmBANCQ5Y2Xl6zzp6cwM.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1539708",
           "letterboxdUrl": "https://letterboxd.com/search/Curse%20of%20Crom%202%3A%20Crom's%20Fury/",
@@ -5062,7 +4806,7 @@
           ],
           "voteAverage": 7.7,
           "voteCount": 32,
-          "popularity": 3.4188,
+          "popularity": 3.4028,
           "posterUrl": "https://image.tmdb.org/t/p/w185/rZUjHv6b4y3GCC0V5JwfhtW7Jx6.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1154478",
           "letterboxdUrl": "https://letterboxd.com/search/I%20Am%20What%20I%20Am%202/",
@@ -5082,7 +4826,7 @@
           ],
           "voteAverage": 10,
           "voteCount": 1,
-          "popularity": 1.028,
+          "popularity": 1.4011,
           "posterUrl": "https://image.tmdb.org/t/p/w185/dcafZ6o5AY5mFg8wiJcfoSMpUQu.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1702961",
           "letterboxdUrl": "https://letterboxd.com/search/Prison%20and%20Time/",
@@ -5100,10 +4844,10 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 6.477,
+          "voteAverage": 6.4,
           "voteCount": 23,
-          "popularity": 5.4882,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/1x34FPfKP8uYO7LlzopbHpJFGAh.jpg",
+          "popularity": 5.1677,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/aDBZ2PGgUbcGjyX7ZCXLOk4AFQH.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1399525",
           "letterboxdUrl": "https://letterboxd.com/search/Rose%20of%20Nevada/",
           "providers": []
@@ -5120,9 +4864,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 8.2,
-          "voteCount": 1571,
-          "popularity": 328.4932,
+          "voteAverage": 8.3,
+          "voteCount": 1712,
+          "popularity": 255.6312,
           "posterUrl": "https://image.tmdb.org/t/p/w185/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1084244",
           "letterboxdUrl": "https://letterboxd.com/search/Toy%20Story%205/",
@@ -5145,15 +4889,37 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.088,
-          "voteCount": 34,
-          "popularity": 44.3142,
+          "voteAverage": 7.44,
+          "voteCount": 50,
+          "popularity": 30.2282,
           "posterUrl": "https://image.tmdb.org/t/p/w185/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1418582",
           "letterboxdUrl": "https://letterboxd.com/search/Here%20the%20Whole%20Time/",
           "providers": [
             "Netflix",
             "Netflix Standard with Ads"
+          ]
+        },
+        {
+          "id": 957452,
+          "title": "The Crow",
+          "releaseDate": "2026-08-19",
+          "firstDigitalDate": "2024-09-13",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-19",
+              "note": "The Roku Channel",
+              "kind": "followup_digital"
+            }
+          ],
+          "voteAverage": 5.773,
+          "voteCount": 1326,
+          "popularity": 10.9571,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/957452",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Crow/",
+          "providers": [
+            "Starz Apple TV channel"
           ]
         }
       ]
@@ -5175,7 +4941,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 2.4168,
+          "popularity": 2.13,
           "posterUrl": "https://image.tmdb.org/t/p/w185/l1yxG7See9ENzPSFABzdFI1gh4t.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1525909",
           "letterboxdUrl": "https://letterboxd.com/search/Keeping%20Company/",
@@ -5195,7 +4961,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.5452,
+          "popularity": 1.5783,
           "posterUrl": "https://image.tmdb.org/t/p/w185/2jtsrPXVTMkBWWdpsbuqwGX2HSk.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1752976",
           "letterboxdUrl": "https://letterboxd.com/search/Not%20Here/",
@@ -5215,7 +4981,7 @@
           ],
           "voteAverage": 6,
           "voteCount": 1,
-          "popularity": 1.3575,
+          "popularity": 1.6773,
           "posterUrl": "https://image.tmdb.org/t/p/w185/nQl2GGyMxi8WrwqI2SYJfa6dNEZ.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1552786",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Legend%20of%20Juan%20Jose%20Mundo/",
@@ -5240,7 +5006,7 @@
           ],
           "voteAverage": 7.4,
           "voteCount": 4,
-          "popularity": 2.3389,
+          "popularity": 2.8504,
           "posterUrl": "https://image.tmdb.org/t/p/w185/ec7ShDS3k2e5ZLchaRZOFYUegvf.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1517206",
           "letterboxdUrl": "https://letterboxd.com/search/Bouchra/",
@@ -5258,10 +5024,10 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 6.5,
-          "voteCount": 11,
-          "popularity": 47.6543,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/oTwwCsmWvHxj2olhCB2VEGcDUXD.jpg",
+          "voteAverage": 6.4,
+          "voteCount": 13,
+          "popularity": 88.8608,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1432706",
           "letterboxdUrl": "https://letterboxd.com/search/Bury%20the%20Devil/",
           "providers": []
@@ -5280,7 +5046,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.3931,
+          "popularity": 0.474,
           "posterUrl": "https://image.tmdb.org/t/p/w185/ir0LpgJBHUKJzO3LUDXubiGtTiT.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1744261",
           "letterboxdUrl": "https://letterboxd.com/search/Money%20Game/",
@@ -5298,15 +5064,37 @@
               "kind": "streaming_drop"
             }
           ],
-          "voteAverage": 5.73,
-          "voteCount": 159,
-          "popularity": 16.9911,
+          "voteAverage": 5.671,
+          "voteCount": 170,
+          "popularity": 15.6076,
           "posterUrl": "https://image.tmdb.org/t/p/w185/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1102883",
           "letterboxdUrl": "https://letterboxd.com/search/Mother%20Mary/",
           "providers": [
             "HBO Max Amazon Channel",
             "HBO Max"
+          ]
+        },
+        {
+          "id": 426063,
+          "title": "Nosferatu",
+          "releaseDate": "2026-08-21",
+          "firstDigitalDate": "2025-01-21",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-21",
+              "note": "Hulu",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 6.7,
+          "voteCount": 3909,
+          "popularity": 18.5734,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/426063",
+          "letterboxdUrl": "https://letterboxd.com/search/Nosferatu/",
+          "providers": [
+            "Hulu"
           ]
         },
         {
@@ -5323,7 +5111,7 @@
           ],
           "voteAverage": 10,
           "voteCount": 1,
-          "popularity": 1.4278,
+          "popularity": 1.4512,
           "posterUrl": "https://image.tmdb.org/t/p/w185/4Rwtlua1H8CTKQ7FMYj0C99fUXB.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1453343",
           "letterboxdUrl": "https://letterboxd.com/search/Pure%20Scum/",
@@ -5341,9 +5129,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 6.444,
-          "voteCount": 18,
-          "popularity": 108.8746,
+          "voteAverage": 5.929,
+          "voteCount": 28,
+          "popularity": 140.4852,
           "posterUrl": "https://image.tmdb.org/t/p/w185/tXsTtSgguTsk5J115jokwK55awF.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1130948",
           "letterboxdUrl": "https://letterboxd.com/search/Rosebush%20Pruning/",
@@ -5366,7 +5154,7 @@
           ],
           "voteAverage": 6.143,
           "voteCount": 7,
-          "popularity": 4.1453,
+          "popularity": 3.965,
           "posterUrl": "https://image.tmdb.org/t/p/w185/bV0HUg3xU0APddmja298tVOQNy1.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1254800",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Fence/",
@@ -5377,6 +5165,26 @@
             "AMC+ Roku Premium Channel",
             "AMC+"
           ]
+        },
+        {
+          "id": 1756187,
+          "title": "We Intend to Eat Pork | Hawaii: Rise",
+          "releaseDate": "2026-08-21",
+          "firstDigitalDate": "2026-06-11",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-21",
+              "note": "Released worldwide on Youtube",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 10,
+          "voteCount": 1,
+          "popularity": 0.2441,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/fiJa3jVpLdkoJBx3xgmehXM4LWr.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1756187",
+          "letterboxdUrl": "https://letterboxd.com/search/We%20Intend%20to%20Eat%20Pork%20%7C%20Hawaii%3A%20Rise/",
+          "providers": []
         }
       ]
     },
@@ -5397,7 +5205,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.1988,
+          "popularity": 1.182,
           "posterUrl": "https://image.tmdb.org/t/p/w185/ni1XHrRY9HUbuoqUKPBuLXwxG6b.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1725577",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Roast%20of%20Caveh%20Zahedi/",
@@ -5420,13 +5228,58 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.2,
-          "voteCount": 4,
-          "popularity": 4.0497,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/g19IoButQepcHPShmzfPGYOWfTq.jpg",
+          "voteAverage": 8.987,
+          "voteCount": 78,
+          "popularity": 113.3918,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/360qdtu2hLnqMu8SVHMywn420w1.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1560520",
           "letterboxdUrl": "https://letterboxd.com/search/Batman%3A%20Knightfall%20Part%201%3A%20Knightfall/",
           "providers": []
+        },
+        {
+          "id": 1336112,
+          "title": "Battersea",
+          "releaseDate": "2026-08-25",
+          "firstDigitalDate": "2026-08-25",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-25",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 10,
+          "voteCount": 1,
+          "popularity": 1.0243,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/qqMmw7Gg5zTIBR4mvR3DlhNfMrd.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1336112",
+          "letterboxdUrl": "https://letterboxd.com/search/Battersea/",
+          "providers": []
+        },
+        {
+          "id": 365177,
+          "title": "Borderlands",
+          "releaseDate": "2026-08-25",
+          "firstDigitalDate": "2024-08-30",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-25",
+              "note": "Peacock",
+              "kind": "streaming_drop"
+            }
+          ],
+          "voteAverage": 5.548,
+          "voteCount": 1556,
+          "popularity": 10.5071,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/365177",
+          "letterboxdUrl": "https://letterboxd.com/search/Borderlands/",
+          "providers": [
+            "Peacock Premium",
+            "YouTube TV",
+            "Starz Apple TV channel",
+            "Peacock Premium Plus"
+          ]
         },
         {
           "id": 1465814,
@@ -5440,9 +5293,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7,
-          "voteCount": 1,
-          "popularity": 1.5752,
+          "voteAverage": 7.5,
+          "voteCount": 2,
+          "popularity": 2.031,
           "posterUrl": "https://image.tmdb.org/t/p/w185/rh0BBFTBhcJ4rZEKduEZrE1FQal.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1465814",
           "letterboxdUrl": "https://letterboxd.com/search/Esta%20Isla/",
@@ -5460,9 +5313,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 5.1,
-          "voteCount": 48,
-          "popularity": 25.8813,
+          "voteAverage": 5.144,
+          "voteCount": 52,
+          "popularity": 29.4134,
           "posterUrl": "https://image.tmdb.org/t/p/w185/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1469342",
           "letterboxdUrl": "https://letterboxd.com/search/Her%20Private%20Hell/",
@@ -5480,10 +5333,10 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 6.5,
-          "voteCount": 18,
-          "popularity": 12.4431,
-          "posterUrl": "https://image.tmdb.org/t/p/w185/cWAVzTWm9xdc8skHH7h1vreUtcD.jpg",
+          "voteAverage": 6.73,
+          "voteCount": 61,
+          "popularity": 105.798,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/87513",
           "letterboxdUrl": "https://letterboxd.com/search/Motor%20City/",
           "providers": []
@@ -5500,9 +5353,9 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 7.052,
-          "voteCount": 48,
-          "popularity": 89.9603,
+          "voteAverage": 6.8,
+          "voteCount": 63,
+          "popularity": 160.359,
           "posterUrl": "https://image.tmdb.org/t/p/w185/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1232569",
           "letterboxdUrl": "https://letterboxd.com/search/Pinocchio%3A%20Unstrung/",
@@ -5522,7 +5375,7 @@
           ],
           "voteAverage": 4,
           "voteCount": 2,
-          "popularity": 2.2418,
+          "popularity": 2.2751,
           "posterUrl": "https://image.tmdb.org/t/p/w185/cZCpZBKsMcPB1CzoYXrZ9x2gibo.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1131087",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Deb/",
@@ -5542,7 +5395,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 1.3203,
+          "popularity": 1.2255,
           "posterUrl": "https://image.tmdb.org/t/p/w185/fYwF7caBVxNZHX97EgrEV1alA1U.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/855275",
           "letterboxdUrl": "https://letterboxd.com/search/The%20Unelected%20Statesman/",
@@ -5560,14 +5413,15 @@
               "kind": "streaming_drop"
             }
           ],
-          "voteAverage": 6.673,
-          "voteCount": 4449,
-          "popularity": 38.2075,
+          "voteAverage": 6.672,
+          "voteCount": 4462,
+          "popularity": 35.6289,
           "posterUrl": "https://image.tmdb.org/t/p/w185/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/912649",
           "letterboxdUrl": "https://letterboxd.com/search/Venom%3A%20The%20Last%20Dance/",
           "providers": [
             "Netflix",
+            "Disney Plus",
             "YouTube TV",
             "Netflix Standard with Ads"
           ]
@@ -5575,8 +5429,53 @@
       ]
     },
     {
+      "date": "2026-08-26",
+      "movies": [
+        {
+          "id": 1629063,
+          "title": "Downbeat",
+          "releaseDate": "2026-08-26",
+          "firstDigitalDate": "2026-08-26",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-26",
+              "note": "Letterboxd Video Store",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.4235,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/txMC2qiZHlMO3rHHqFGztLntomB.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1629063",
+          "letterboxdUrl": "https://letterboxd.com/search/Downbeat/",
+          "providers": []
+        }
+      ]
+    },
+    {
       "date": "2026-08-27",
       "movies": [
+        {
+          "id": 1607137,
+          "title": "Encounter",
+          "releaseDate": "2026-08-27",
+          "firstDigitalDate": "2026-08-27",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-08-27",
+              "note": "New York Indie Short Awards - Online Event",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.1439,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/x3Fs3qj7DLBjMtgwP0JzEqmKNfe.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1607137",
+          "letterboxdUrl": "https://letterboxd.com/search/Encounter/",
+          "providers": []
+        },
         {
           "id": 1530941,
           "title": "Gintama the Movie 2026: Yoshiwara in Flames",
@@ -5591,11 +5490,14 @@
           ],
           "voteAverage": 8,
           "voteCount": 2,
-          "popularity": 2.1276,
+          "popularity": 5.2121,
           "posterUrl": "https://image.tmdb.org/t/p/w185/ih3mFlEZzsN9uQT7P4Zvaq4GkSm.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1530941",
           "letterboxdUrl": "https://letterboxd.com/search/Gintama%20the%20Movie%202026%3A%20Yoshiwara%20in%20Flames/",
-          "providers": []
+          "providers": [
+            "Netflix",
+            "Netflix Standard with Ads"
+          ]
         }
       ]
     },
@@ -5616,7 +5518,7 @@
           ],
           "voteAverage": 0,
           "voteCount": 0,
-          "popularity": 0.4415,
+          "popularity": 0.521,
           "posterUrl": "https://image.tmdb.org/t/p/w185/Eyh5kwj7mftYgXQ9YLLYZMYY8q.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1747300",
           "letterboxdUrl": "https://letterboxd.com/search/L.A.%20Bars%20%26%20Cigarettes/",
@@ -5634,13 +5536,15 @@
               "kind": "first_digital"
             }
           ],
-          "voteAverage": 0,
-          "voteCount": 0,
-          "popularity": 0.9495,
+          "voteAverage": 6,
+          "voteCount": 1,
+          "popularity": 1.3147,
           "posterUrl": "https://image.tmdb.org/t/p/w185/ipAyHghFvnelEVHRMsUnsRXUwO4.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/1428766",
           "letterboxdUrl": "https://letterboxd.com/search/Penny%20Lane%20Is%20Dead/",
-          "providers": []
+          "providers": [
+            "AMC+ Roku Premium Channel"
+          ]
         }
       ]
     },
@@ -5661,7 +5565,7 @@
           ],
           "voteAverage": 7.4,
           "voteCount": 10,
-          "popularity": 7.9594,
+          "popularity": 5.8907,
           "posterUrl": "https://image.tmdb.org/t/p/w185/6YkVpc9Dn1L2FHNlLOybpSKeGc7.jpg",
           "tmdbUrl": "https://www.themoviedb.org/movie/910850",
           "letterboxdUrl": "https://letterboxd.com/search/MOBILE%20SUIT%20GUNDAM%20HATHAWAY%20The%20Sorcery%20of%20Nymph%20Circe/",
