@@ -1,0 +1,2195 @@
+{
+  "generatedAt": "2026-10-01T11:00:49.985Z",
+  "month": "2026-11",
+  "label": "November 2026",
+  "region": "US",
+  "movies": [
+    {
+      "id": 1770005,
+      "title": "As You Were",
+      "releaseDate": "2026-11-01",
+      "firstDigitalDate": "2026-11-01",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-01",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.0431,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/6VCbAqy85UfNp0b5Me4dWpN2eBe.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1770005",
+      "letterboxdUrl": "https://letterboxd.com/search/As%20You%20Were/",
+      "providers": []
+    },
+    {
+      "id": 1487439,
+      "title": "MEMO",
+      "releaseDate": "2026-11-01",
+      "firstDigitalDate": "2026-11-01",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-01",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.5222,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/rUJrVZ7OaTrG9ZCVVkUvak8t4XJ.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1487439",
+      "letterboxdUrl": "https://letterboxd.com/search/MEMO/",
+      "providers": []
+    },
+    {
+      "id": 1610442,
+      "title": "Summer's End",
+      "releaseDate": "2026-11-01",
+      "firstDigitalDate": "2026-11-01",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-01",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.584,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/wynLFZZLTvNz5AsxMsjtmEWq4Zq.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1610442",
+      "letterboxdUrl": "https://letterboxd.com/search/Summer's%20End/",
+      "providers": []
+    },
+    {
+      "id": 1641105,
+      "title": "The Wronged of Juiced",
+      "releaseDate": "2026-11-01",
+      "firstDigitalDate": "2026-11-01",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-01",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.4219,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1641105",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Wronged%20of%20Juiced/",
+      "providers": []
+    },
+    {
+      "id": 1773368,
+      "title": "A Danish Christmas",
+      "releaseDate": "2026-11-02",
+      "firstDigitalDate": "2026-11-02",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-02",
+          "note": "Hallmark+",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.1931,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/ii8ssE4a5EHXcjFkGPdEwMZ46Oh.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1773368",
+      "letterboxdUrl": "https://letterboxd.com/search/A%20Danish%20Christmas/",
+      "providers": []
+    },
+    {
+      "id": 1559454,
+      "title": "I Think You're Hurting Them",
+      "releaseDate": "2026-11-03",
+      "firstDigitalDate": "2026-11-03",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-03",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.8192,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/v1U66HqhkrAWoVc8sAX8OuYOmSd.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1559454",
+      "letterboxdUrl": "https://letterboxd.com/search/I%20Think%20You're%20Hurting%20Them/",
+      "providers": []
+    },
+    {
+      "id": 1570488,
+      "title": "A Dog’s Perfect Christmas",
+      "releaseDate": "2026-11-04",
+      "firstDigitalDate": "2026-11-04",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-04",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.1674,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1570488",
+      "letterboxdUrl": "https://letterboxd.com/search/A%20Dog%E2%80%99s%20Perfect%20Christmas/",
+      "providers": []
+    },
+    {
+      "id": 1654940,
+      "title": "One Year to Live, Buy a Man",
+      "releaseDate": "2026-11-05",
+      "firstDigitalDate": "2026-11-05",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-05",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.4645,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1654940",
+      "letterboxdUrl": "https://letterboxd.com/search/One%20Year%20to%20Live%2C%20Buy%20a%20Man/",
+      "providers": []
+    },
+    {
+      "id": 1757986,
+      "title": "Asstral Rectuming",
+      "releaseDate": "2026-11-06",
+      "firstDigitalDate": "2026-11-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-06",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.7061,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/74wt2yXDVqujd1SyDQtsfiDFIHz.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1757986",
+      "letterboxdUrl": "https://letterboxd.com/search/Asstral%20Rectuming/",
+      "providers": []
+    },
+    {
+      "id": 1215921,
+      "title": "Last Train to Fortune",
+      "releaseDate": "2026-11-06",
+      "firstDigitalDate": "2026-11-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-06",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 10,
+      "voteCount": 1,
+      "popularity": 3.7302,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/oqBHbggqRIPSD8VoezinVP26t0j.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1215921",
+      "letterboxdUrl": "https://letterboxd.com/search/Last%20Train%20to%20Fortune/",
+      "providers": []
+    },
+    {
+      "id": 1754364,
+      "title": "Making Marie Antoinette",
+      "releaseDate": "2026-11-06",
+      "firstDigitalDate": "2026-11-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-06",
+          "note": "MUBI",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.6717,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/4B2qSMSyev7aqPNT00TNPVCBKGF.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1754364",
+      "letterboxdUrl": "https://letterboxd.com/search/Making%20Marie%20Antoinette/",
+      "providers": []
+    },
+    {
+      "id": 1737349,
+      "title": "Once Upon a Time in Jersey",
+      "releaseDate": "2026-11-06",
+      "firstDigitalDate": "2026-11-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-06",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.9297,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/9pqGbaAMUJUQVQvDZU3uNdVTve4.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1737349",
+      "letterboxdUrl": "https://letterboxd.com/search/Once%20Upon%20a%20Time%20in%20Jersey/",
+      "providers": []
+    },
+    {
+      "id": 1483525,
+      "title": "Possible Love",
+      "releaseDate": "2026-11-06",
+      "firstDigitalDate": "2026-11-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-06",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 9,
+      "voteCount": 1,
+      "popularity": 18.7189,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/fA66iCvHkxFbicOExARWCKB1fvE.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1483525",
+      "letterboxdUrl": "https://letterboxd.com/search/Possible%20Love/",
+      "providers": []
+    },
+    {
+      "id": 1743346,
+      "title": "The Ambersons",
+      "releaseDate": "2026-11-06",
+      "firstDigitalDate": "2026-11-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-06",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.4572,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/tZga65Plvw5ZLYwiKX8ToBFxEZg.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1743346",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Ambersons/",
+      "providers": []
+    },
+    {
+      "id": 1446589,
+      "title": "Wanderer",
+      "releaseDate": "2026-11-06",
+      "firstDigitalDate": "2026-11-06",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-06",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.5636,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/xEhH4BUlxhqQt6ClDONwBUpkmbP.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1446589",
+      "letterboxdUrl": "https://letterboxd.com/search/Wanderer/",
+      "providers": []
+    },
+    {
+      "id": 1776532,
+      "title": "An Ozark Mountain Christmas",
+      "releaseDate": "2026-11-08",
+      "firstDigitalDate": "2026-11-08",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-08",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.7716,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1776532",
+      "letterboxdUrl": "https://letterboxd.com/search/An%20Ozark%20Mountain%20Christmas/",
+      "providers": []
+    },
+    {
+      "id": 1686559,
+      "title": "Expire",
+      "releaseDate": "2026-11-08",
+      "firstDigitalDate": "2026-11-08",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-08",
+          "note": "Muhammad Abed Baryal YouTube Channel",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.5196,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/iAc5yOuoAfpvfrqLZDViHP8akfZ.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1686559",
+      "letterboxdUrl": "https://letterboxd.com/search/Expire/",
+      "providers": []
+    },
+    {
+      "id": 1616419,
+      "title": "The Good Lawyer",
+      "releaseDate": "2026-11-09",
+      "firstDigitalDate": "2026-11-09",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-09",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.0005,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/iy7Ersw8H4I1U5cA9bFyJpMrTTM.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1616419",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Good%20Lawyer/",
+      "providers": []
+    },
+    {
+      "id": 1396875,
+      "title": "Wildcards",
+      "releaseDate": "2026-11-09",
+      "firstDigitalDate": "2026-11-09",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-09",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.8525,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/r7E2txDoZf7dxXR6BaZurvehTtx.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1396875",
+      "letterboxdUrl": "https://letterboxd.com/search/Wildcards/",
+      "providers": []
+    },
+    {
+      "id": 1604431,
+      "title": "Christmas at the Zoo",
+      "releaseDate": "2026-11-10",
+      "firstDigitalDate": "2026-11-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-10",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.7765,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/tji0q57LIau3Rd8EqUYurH2zwK7.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1604431",
+      "letterboxdUrl": "https://letterboxd.com/search/Christmas%20at%20the%20Zoo/",
+      "providers": []
+    },
+    {
+      "id": 781329,
+      "title": "Ebola Rex Versus Murder Hornets",
+      "releaseDate": "2026-11-10",
+      "firstDigitalDate": "2026-11-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-10",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.397,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/tYKgeRyIuIV7R88gzWWuPxeCp4S.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/781329",
+      "letterboxdUrl": "https://letterboxd.com/search/Ebola%20Rex%20Versus%20Murder%20Hornets/",
+      "providers": []
+    },
+    {
+      "id": 1308980,
+      "title": "Falling",
+      "releaseDate": "2026-11-10",
+      "firstDigitalDate": "2026-11-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-10",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.4115,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1308980",
+      "letterboxdUrl": "https://letterboxd.com/search/Falling/",
+      "providers": []
+    },
+    {
+      "id": 1736905,
+      "title": "We Chose to Go to the Moon",
+      "releaseDate": "2026-11-10",
+      "firstDigitalDate": "2026-11-10",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-10",
+          "note": "PBS.org / PBS app",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.1165,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1736905",
+      "letterboxdUrl": "https://letterboxd.com/search/We%20Chose%20to%20Go%20to%20the%20Moon/",
+      "providers": []
+    },
+    {
+      "id": 1666787,
+      "title": "Avedon",
+      "releaseDate": "2026-11-11",
+      "firstDigitalDate": "2026-11-11",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-11",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 4,
+      "voteCount": 1,
+      "popularity": 2.9288,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/n1uljBD7czHQmxhZAvFLuZlSnGe.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1666787",
+      "letterboxdUrl": "https://letterboxd.com/search/Avedon/",
+      "providers": []
+    },
+    {
+      "id": 1050981,
+      "title": "Being Heumann",
+      "releaseDate": "2026-11-12",
+      "firstDigitalDate": "2026-11-12",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-12",
+          "note": "Apple TV",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.9514,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/sp5lI7OwRRCjr0sPUxccyv1ZsGG.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1050981",
+      "letterboxdUrl": "https://letterboxd.com/search/Being%20Heumann/",
+      "providers": []
+    },
+    {
+      "id": 1760987,
+      "title": "Ghosts of the Gold Rush",
+      "releaseDate": "2026-11-13",
+      "firstDigitalDate": "2026-11-13",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-13",
+          "note": "United States TVOD release",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.4698,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/j5AhCL8zybFEECb9oSuWoGgsJJ6.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1760987",
+      "letterboxdUrl": "https://letterboxd.com/search/Ghosts%20of%20the%20Gold%20Rush/",
+      "providers": []
+    },
+    {
+      "id": 1543469,
+      "title": "Heartland",
+      "releaseDate": "2026-11-13",
+      "firstDigitalDate": "2026-11-13",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-13",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.3874,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1543469",
+      "letterboxdUrl": "https://letterboxd.com/search/Heartland/",
+      "providers": []
+    },
+    {
+      "id": 1696081,
+      "title": "Moral",
+      "releaseDate": "2026-11-13",
+      "firstDigitalDate": "2026-11-13",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-13",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.518,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/qHbAaFFVNjxpkltVBFpAWjHOp48.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1696081",
+      "letterboxdUrl": "https://letterboxd.com/search/Moral/",
+      "providers": []
+    },
+    {
+      "id": 1749825,
+      "title": "Scrooge: A Christmas Carol Horror",
+      "releaseDate": "2026-11-13",
+      "firstDigitalDate": "2026-11-13",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-13",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.5472,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1749825",
+      "letterboxdUrl": "https://letterboxd.com/search/Scrooge%3A%20A%20Christmas%20Carol%20Horror/",
+      "providers": []
+    },
+    {
+      "id": 1780407,
+      "title": "Snoopy Presents: 12 Days of Snoopy",
+      "releaseDate": "2026-11-13",
+      "firstDigitalDate": "2026-11-13",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-13",
+          "note": "Apple TV",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.4741,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1780407",
+      "letterboxdUrl": "https://letterboxd.com/search/Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy/",
+      "providers": []
+    },
+    {
+      "id": 1642552,
+      "title": "Solutus",
+      "releaseDate": "2026-11-13",
+      "firstDigitalDate": "2026-11-13",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-13",
+          "note": "YouTube Release",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.6615,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/ktEo0jzCTePMmIyJphHoJyjq19R.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1642552",
+      "letterboxdUrl": "https://letterboxd.com/search/Solutus/",
+      "providers": []
+    },
+    {
+      "id": 1748951,
+      "title": "Breaking the Cycle",
+      "releaseDate": "2026-11-17",
+      "firstDigitalDate": "2026-11-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-17",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.9018,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/jkswFx4EBym8p4PlqnCAlb6CDSj.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1748951",
+      "letterboxdUrl": "https://letterboxd.com/search/Breaking%20the%20Cycle/",
+      "providers": []
+    },
+    {
+      "id": 1368337,
+      "title": "The Odyssey",
+      "releaseDate": "2026-11-17",
+      "firstDigitalDate": "2026-11-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-17",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 8.013,
+      "voteCount": 3982,
+      "popularity": 314.6106,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1368337",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Odyssey/",
+      "providers": []
+    },
+    {
+      "id": 1129188,
+      "title": "The Optimist",
+      "releaseDate": "2026-11-17",
+      "firstDigitalDate": "2026-11-17",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-17",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 6.8,
+      "voteCount": 4,
+      "popularity": 3.0233,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/kQvgYd8GaYkoovQZmE8IkbAMg2d.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1129188",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Optimist/",
+      "providers": []
+    },
+    {
+      "id": 1473148,
+      "title": "Gentle Monster",
+      "releaseDate": "2026-11-18",
+      "firstDigitalDate": "2026-11-18",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-18",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 9,
+      "voteCount": 1,
+      "popularity": 5.832,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/v7sbP2qv8ezCfo9FOI6DVUXDSaw.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1473148",
+      "letterboxdUrl": "https://letterboxd.com/search/Gentle%20Monster/",
+      "providers": []
+    },
+    {
+      "id": 1551025,
+      "title": "Guarding Stars",
+      "releaseDate": "2026-11-18",
+      "firstDigitalDate": "2026-11-18",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-18",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.4831,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1551025",
+      "letterboxdUrl": "https://letterboxd.com/search/Guarding%20Stars/",
+      "providers": []
+    },
+    {
+      "id": 1131943,
+      "title": "Madden",
+      "releaseDate": "2026-11-18",
+      "firstDigitalDate": "2026-11-18",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-18",
+          "note": "Prime Video",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 7.015,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1131943",
+      "letterboxdUrl": "https://letterboxd.com/search/Madden/",
+      "providers": []
+    },
+    {
+      "id": 1307474,
+      "title": "On Behalf of My Son",
+      "releaseDate": "2026-11-20",
+      "firstDigitalDate": "2026-11-20",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-20",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.3781,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1307474",
+      "letterboxdUrl": "https://letterboxd.com/search/On%20Behalf%20of%20My%20Son/",
+      "providers": []
+    },
+    {
+      "id": 1568060,
+      "title": "Perfect Liars",
+      "releaseDate": "2026-11-20",
+      "firstDigitalDate": "2026-11-20",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-20",
+          "note": "Prime Video",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 3.5766,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/6bQ0YqBV61wlBHArIyksxs0FoT6.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1568060",
+      "letterboxdUrl": "https://letterboxd.com/search/Perfect%20Liars/",
+      "providers": []
+    },
+    {
+      "id": 1595124,
+      "title": "Steps",
+      "releaseDate": "2026-11-20",
+      "firstDigitalDate": "2026-11-20",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-20",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 6.0852,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1595124",
+      "letterboxdUrl": "https://letterboxd.com/search/Steps/",
+      "providers": []
+    },
+    {
+      "id": 1726490,
+      "title": "The Bleeders",
+      "releaseDate": "2026-11-20",
+      "firstDigitalDate": "2026-11-20",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-20",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.7715,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/iBIAIBU5hj2sF6oGNTQalz4BQBM.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1726490",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Bleeders/",
+      "providers": []
+    },
+    {
+      "id": 1466397,
+      "title": "The Return of the Lifeblood",
+      "releaseDate": "2026-11-20",
+      "firstDigitalDate": "2026-01-22",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-20",
+          "note": "Los Angeles Fantasy Fest (Vimeo Screening)",
+          "kind": "followup_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.5572,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/l2UgLosLqItkLFTEiVYAlhUQ4Nw.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1466397",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Return%20of%20the%20Lifeblood/",
+      "providers": []
+    },
+    {
+      "id": 1280115,
+      "title": "Way of the Warrior Kid",
+      "releaseDate": "2026-11-24",
+      "firstDigitalDate": "2026-11-24",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-24",
+          "note": "Apple TV",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.8092,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/onZIFslULiG6aKgGFMZkAAWy2QV.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1280115",
+      "letterboxdUrl": "https://letterboxd.com/search/Way%20of%20the%20Warrior%20Kid/",
+      "providers": []
+    },
+    {
+      "id": 1769056,
+      "title": "Shane V",
+      "releaseDate": "2026-11-25",
+      "firstDigitalDate": "2026-11-25",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-25",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.4636,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/cgPPYSHqCNzPigp1drfFOKu7XqL.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1769056",
+      "letterboxdUrl": "https://letterboxd.com/search/Shane%20V/",
+      "providers": []
+    },
+    {
+      "id": 1458300,
+      "title": "The Mosquito Bowl",
+      "releaseDate": "2026-11-25",
+      "firstDigitalDate": "2026-11-25",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-25",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.5388,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/yYyakG09lQMhlF3GW0ZCTjnDhah.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1458300",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Mosquito%20Bowl/",
+      "providers": []
+    },
+    {
+      "id": 1741953,
+      "title": "Path of Titans 4 - DUCK DYNASTY",
+      "releaseDate": "2026-11-26",
+      "firstDigitalDate": "2026-11-26",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-26",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.5441,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/pirpicFbO87Y2gIJtIRtHSUzNig.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1741953",
+      "letterboxdUrl": "https://letterboxd.com/search/Path%20of%20Titans%204%20-%20DUCK%20DYNASTY/",
+      "providers": []
+    },
+    {
+      "id": 1716604,
+      "title": "A Proud Family Wizmas",
+      "releaseDate": "2026-11-27",
+      "firstDigitalDate": "2026-11-27",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-27",
+          "note": "Disney+",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.0577,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1716604",
+      "letterboxdUrl": "https://letterboxd.com/search/A%20Proud%20Family%20Wizmas/",
+      "providers": []
+    },
+    {
+      "id": 1674501,
+      "title": "Kyle and Eric's Quest for the Golden Bong",
+      "releaseDate": "2026-11-27",
+      "firstDigitalDate": "2026-11-27",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-27",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.5812,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/k40wvROD82wGlHtgubJIOHmpBXL.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1674501",
+      "letterboxdUrl": "https://letterboxd.com/search/Kyle%20and%20Eric's%20Quest%20for%20the%20Golden%20Bong/",
+      "providers": []
+    },
+    {
+      "id": 1506401,
+      "title": "The Child",
+      "releaseDate": "2026-11-27",
+      "firstDigitalDate": "2026-11-27",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-27",
+          "note": "Netflix",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 2.193,
+      "posterUrl": "",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1506401",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20Child/",
+      "providers": []
+    },
+    {
+      "id": 1773727,
+      "title": "The JLO Show",
+      "releaseDate": "2026-11-27",
+      "firstDigitalDate": "2026-11-27",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-27",
+          "note": "Paramount+",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.1605,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/9bwnRgCAyMGBJT3exLHmzlNue8o.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1773727",
+      "letterboxdUrl": "https://letterboxd.com/search/The%20JLO%20Show/",
+      "providers": []
+    },
+    {
+      "id": 1741419,
+      "title": "WWE Survivor Series: WarGames 2026",
+      "releaseDate": "2026-11-28",
+      "firstDigitalDate": "2026-11-28",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-28",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 1.6591,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/r7KKaEOHptKPa2RMitRcZTsa5Au.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1741419",
+      "letterboxdUrl": "https://letterboxd.com/search/WWE%20Survivor%20Series%3A%20WarGames%202026/",
+      "providers": []
+    },
+    {
+      "id": 1652990,
+      "title": "SP-2125",
+      "releaseDate": "2026-11-30",
+      "firstDigitalDate": "2026-11-30",
+      "monthDigitalEvents": [
+        {
+          "date": "2026-11-30",
+          "note": "",
+          "kind": "first_digital"
+        }
+      ],
+      "voteAverage": 0,
+      "voteCount": 0,
+      "popularity": 0.5345,
+      "posterUrl": "https://image.tmdb.org/t/p/w185/xf8vzP14D6skRY91jFyMYVTNNlF.jpg",
+      "tmdbUrl": "https://www.themoviedb.org/movie/1652990",
+      "letterboxdUrl": "https://letterboxd.com/search/SP-2125/",
+      "providers": []
+    }
+  ],
+  "groups": [
+    {
+      "date": "2026-11-01",
+      "movies": [
+        {
+          "id": 1770005,
+          "title": "As You Were",
+          "releaseDate": "2026-11-01",
+          "firstDigitalDate": "2026-11-01",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-01",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.0431,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/6VCbAqy85UfNp0b5Me4dWpN2eBe.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1770005",
+          "letterboxdUrl": "https://letterboxd.com/search/As%20You%20Were/",
+          "providers": []
+        },
+        {
+          "id": 1487439,
+          "title": "MEMO",
+          "releaseDate": "2026-11-01",
+          "firstDigitalDate": "2026-11-01",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-01",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.5222,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/rUJrVZ7OaTrG9ZCVVkUvak8t4XJ.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1487439",
+          "letterboxdUrl": "https://letterboxd.com/search/MEMO/",
+          "providers": []
+        },
+        {
+          "id": 1610442,
+          "title": "Summer's End",
+          "releaseDate": "2026-11-01",
+          "firstDigitalDate": "2026-11-01",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-01",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.584,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/wynLFZZLTvNz5AsxMsjtmEWq4Zq.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1610442",
+          "letterboxdUrl": "https://letterboxd.com/search/Summer's%20End/",
+          "providers": []
+        },
+        {
+          "id": 1641105,
+          "title": "The Wronged of Juiced",
+          "releaseDate": "2026-11-01",
+          "firstDigitalDate": "2026-11-01",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-01",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.4219,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1641105",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Wronged%20of%20Juiced/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "movies": [
+        {
+          "id": 1773368,
+          "title": "A Danish Christmas",
+          "releaseDate": "2026-11-02",
+          "firstDigitalDate": "2026-11-02",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-02",
+              "note": "Hallmark+",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.1931,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/ii8ssE4a5EHXcjFkGPdEwMZ46Oh.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1773368",
+          "letterboxdUrl": "https://letterboxd.com/search/A%20Danish%20Christmas/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "movies": [
+        {
+          "id": 1559454,
+          "title": "I Think You're Hurting Them",
+          "releaseDate": "2026-11-03",
+          "firstDigitalDate": "2026-11-03",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-03",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.8192,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/v1U66HqhkrAWoVc8sAX8OuYOmSd.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1559454",
+          "letterboxdUrl": "https://letterboxd.com/search/I%20Think%20You're%20Hurting%20Them/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "movies": [
+        {
+          "id": 1570488,
+          "title": "A Dog’s Perfect Christmas",
+          "releaseDate": "2026-11-04",
+          "firstDigitalDate": "2026-11-04",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-04",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.1674,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1570488",
+          "letterboxdUrl": "https://letterboxd.com/search/A%20Dog%E2%80%99s%20Perfect%20Christmas/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "movies": [
+        {
+          "id": 1654940,
+          "title": "One Year to Live, Buy a Man",
+          "releaseDate": "2026-11-05",
+          "firstDigitalDate": "2026-11-05",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-05",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.4645,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/rleue0CXFaVemfPnwkjtoe5TK5A.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1654940",
+          "letterboxdUrl": "https://letterboxd.com/search/One%20Year%20to%20Live%2C%20Buy%20a%20Man/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "movies": [
+        {
+          "id": 1757986,
+          "title": "Asstral Rectuming",
+          "releaseDate": "2026-11-06",
+          "firstDigitalDate": "2026-11-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-06",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.7061,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/74wt2yXDVqujd1SyDQtsfiDFIHz.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1757986",
+          "letterboxdUrl": "https://letterboxd.com/search/Asstral%20Rectuming/",
+          "providers": []
+        },
+        {
+          "id": 1215921,
+          "title": "Last Train to Fortune",
+          "releaseDate": "2026-11-06",
+          "firstDigitalDate": "2026-11-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-06",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 10,
+          "voteCount": 1,
+          "popularity": 3.7302,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/oqBHbggqRIPSD8VoezinVP26t0j.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1215921",
+          "letterboxdUrl": "https://letterboxd.com/search/Last%20Train%20to%20Fortune/",
+          "providers": []
+        },
+        {
+          "id": 1754364,
+          "title": "Making Marie Antoinette",
+          "releaseDate": "2026-11-06",
+          "firstDigitalDate": "2026-11-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-06",
+              "note": "MUBI",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.6717,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/4B2qSMSyev7aqPNT00TNPVCBKGF.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1754364",
+          "letterboxdUrl": "https://letterboxd.com/search/Making%20Marie%20Antoinette/",
+          "providers": []
+        },
+        {
+          "id": 1737349,
+          "title": "Once Upon a Time in Jersey",
+          "releaseDate": "2026-11-06",
+          "firstDigitalDate": "2026-11-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-06",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.9297,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/9pqGbaAMUJUQVQvDZU3uNdVTve4.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1737349",
+          "letterboxdUrl": "https://letterboxd.com/search/Once%20Upon%20a%20Time%20in%20Jersey/",
+          "providers": []
+        },
+        {
+          "id": 1483525,
+          "title": "Possible Love",
+          "releaseDate": "2026-11-06",
+          "firstDigitalDate": "2026-11-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-06",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 9,
+          "voteCount": 1,
+          "popularity": 18.7189,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/fA66iCvHkxFbicOExARWCKB1fvE.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1483525",
+          "letterboxdUrl": "https://letterboxd.com/search/Possible%20Love/",
+          "providers": []
+        },
+        {
+          "id": 1743346,
+          "title": "The Ambersons",
+          "releaseDate": "2026-11-06",
+          "firstDigitalDate": "2026-11-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-06",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.4572,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/tZga65Plvw5ZLYwiKX8ToBFxEZg.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1743346",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Ambersons/",
+          "providers": []
+        },
+        {
+          "id": 1446589,
+          "title": "Wanderer",
+          "releaseDate": "2026-11-06",
+          "firstDigitalDate": "2026-11-06",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-06",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.5636,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/xEhH4BUlxhqQt6ClDONwBUpkmbP.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1446589",
+          "letterboxdUrl": "https://letterboxd.com/search/Wanderer/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "movies": [
+        {
+          "id": 1776532,
+          "title": "An Ozark Mountain Christmas",
+          "releaseDate": "2026-11-08",
+          "firstDigitalDate": "2026-11-08",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-08",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.7716,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1776532",
+          "letterboxdUrl": "https://letterboxd.com/search/An%20Ozark%20Mountain%20Christmas/",
+          "providers": []
+        },
+        {
+          "id": 1686559,
+          "title": "Expire",
+          "releaseDate": "2026-11-08",
+          "firstDigitalDate": "2026-11-08",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-08",
+              "note": "Muhammad Abed Baryal YouTube Channel",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.5196,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/iAc5yOuoAfpvfrqLZDViHP8akfZ.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1686559",
+          "letterboxdUrl": "https://letterboxd.com/search/Expire/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "movies": [
+        {
+          "id": 1616419,
+          "title": "The Good Lawyer",
+          "releaseDate": "2026-11-09",
+          "firstDigitalDate": "2026-11-09",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-09",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.0005,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/iy7Ersw8H4I1U5cA9bFyJpMrTTM.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1616419",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Good%20Lawyer/",
+          "providers": []
+        },
+        {
+          "id": 1396875,
+          "title": "Wildcards",
+          "releaseDate": "2026-11-09",
+          "firstDigitalDate": "2026-11-09",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-09",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.8525,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/r7E2txDoZf7dxXR6BaZurvehTtx.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1396875",
+          "letterboxdUrl": "https://letterboxd.com/search/Wildcards/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "movies": [
+        {
+          "id": 1604431,
+          "title": "Christmas at the Zoo",
+          "releaseDate": "2026-11-10",
+          "firstDigitalDate": "2026-11-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-10",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.7765,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/tji0q57LIau3Rd8EqUYurH2zwK7.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1604431",
+          "letterboxdUrl": "https://letterboxd.com/search/Christmas%20at%20the%20Zoo/",
+          "providers": []
+        },
+        {
+          "id": 781329,
+          "title": "Ebola Rex Versus Murder Hornets",
+          "releaseDate": "2026-11-10",
+          "firstDigitalDate": "2026-11-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-10",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.397,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/tYKgeRyIuIV7R88gzWWuPxeCp4S.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/781329",
+          "letterboxdUrl": "https://letterboxd.com/search/Ebola%20Rex%20Versus%20Murder%20Hornets/",
+          "providers": []
+        },
+        {
+          "id": 1308980,
+          "title": "Falling",
+          "releaseDate": "2026-11-10",
+          "firstDigitalDate": "2026-11-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-10",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.4115,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1308980",
+          "letterboxdUrl": "https://letterboxd.com/search/Falling/",
+          "providers": []
+        },
+        {
+          "id": 1736905,
+          "title": "We Chose to Go to the Moon",
+          "releaseDate": "2026-11-10",
+          "firstDigitalDate": "2026-11-10",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-10",
+              "note": "PBS.org / PBS app",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.1165,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1736905",
+          "letterboxdUrl": "https://letterboxd.com/search/We%20Chose%20to%20Go%20to%20the%20Moon/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "movies": [
+        {
+          "id": 1666787,
+          "title": "Avedon",
+          "releaseDate": "2026-11-11",
+          "firstDigitalDate": "2026-11-11",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-11",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 4,
+          "voteCount": 1,
+          "popularity": 2.9288,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/n1uljBD7czHQmxhZAvFLuZlSnGe.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1666787",
+          "letterboxdUrl": "https://letterboxd.com/search/Avedon/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "movies": [
+        {
+          "id": 1050981,
+          "title": "Being Heumann",
+          "releaseDate": "2026-11-12",
+          "firstDigitalDate": "2026-11-12",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-12",
+              "note": "Apple TV",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.9514,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/sp5lI7OwRRCjr0sPUxccyv1ZsGG.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1050981",
+          "letterboxdUrl": "https://letterboxd.com/search/Being%20Heumann/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "movies": [
+        {
+          "id": 1760987,
+          "title": "Ghosts of the Gold Rush",
+          "releaseDate": "2026-11-13",
+          "firstDigitalDate": "2026-11-13",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-13",
+              "note": "United States TVOD release",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.4698,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/j5AhCL8zybFEECb9oSuWoGgsJJ6.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1760987",
+          "letterboxdUrl": "https://letterboxd.com/search/Ghosts%20of%20the%20Gold%20Rush/",
+          "providers": []
+        },
+        {
+          "id": 1543469,
+          "title": "Heartland",
+          "releaseDate": "2026-11-13",
+          "firstDigitalDate": "2026-11-13",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-13",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.3874,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1543469",
+          "letterboxdUrl": "https://letterboxd.com/search/Heartland/",
+          "providers": []
+        },
+        {
+          "id": 1696081,
+          "title": "Moral",
+          "releaseDate": "2026-11-13",
+          "firstDigitalDate": "2026-11-13",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-13",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.518,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/qHbAaFFVNjxpkltVBFpAWjHOp48.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1696081",
+          "letterboxdUrl": "https://letterboxd.com/search/Moral/",
+          "providers": []
+        },
+        {
+          "id": 1749825,
+          "title": "Scrooge: A Christmas Carol Horror",
+          "releaseDate": "2026-11-13",
+          "firstDigitalDate": "2026-11-13",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-13",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.5472,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1749825",
+          "letterboxdUrl": "https://letterboxd.com/search/Scrooge%3A%20A%20Christmas%20Carol%20Horror/",
+          "providers": []
+        },
+        {
+          "id": 1780407,
+          "title": "Snoopy Presents: 12 Days of Snoopy",
+          "releaseDate": "2026-11-13",
+          "firstDigitalDate": "2026-11-13",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-13",
+              "note": "Apple TV",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.4741,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1780407",
+          "letterboxdUrl": "https://letterboxd.com/search/Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy/",
+          "providers": []
+        },
+        {
+          "id": 1642552,
+          "title": "Solutus",
+          "releaseDate": "2026-11-13",
+          "firstDigitalDate": "2026-11-13",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-13",
+              "note": "YouTube Release",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.6615,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/ktEo0jzCTePMmIyJphHoJyjq19R.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1642552",
+          "letterboxdUrl": "https://letterboxd.com/search/Solutus/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "movies": [
+        {
+          "id": 1748951,
+          "title": "Breaking the Cycle",
+          "releaseDate": "2026-11-17",
+          "firstDigitalDate": "2026-11-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-17",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.9018,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/jkswFx4EBym8p4PlqnCAlb6CDSj.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1748951",
+          "letterboxdUrl": "https://letterboxd.com/search/Breaking%20the%20Cycle/",
+          "providers": []
+        },
+        {
+          "id": 1368337,
+          "title": "The Odyssey",
+          "releaseDate": "2026-11-17",
+          "firstDigitalDate": "2026-11-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-17",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 8.013,
+          "voteCount": 3982,
+          "popularity": 314.6106,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1368337",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Odyssey/",
+          "providers": []
+        },
+        {
+          "id": 1129188,
+          "title": "The Optimist",
+          "releaseDate": "2026-11-17",
+          "firstDigitalDate": "2026-11-17",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-17",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 6.8,
+          "voteCount": 4,
+          "popularity": 3.0233,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/kQvgYd8GaYkoovQZmE8IkbAMg2d.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1129188",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Optimist/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "movies": [
+        {
+          "id": 1473148,
+          "title": "Gentle Monster",
+          "releaseDate": "2026-11-18",
+          "firstDigitalDate": "2026-11-18",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-18",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 9,
+          "voteCount": 1,
+          "popularity": 5.832,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/v7sbP2qv8ezCfo9FOI6DVUXDSaw.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1473148",
+          "letterboxdUrl": "https://letterboxd.com/search/Gentle%20Monster/",
+          "providers": []
+        },
+        {
+          "id": 1551025,
+          "title": "Guarding Stars",
+          "releaseDate": "2026-11-18",
+          "firstDigitalDate": "2026-11-18",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-18",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.4831,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1551025",
+          "letterboxdUrl": "https://letterboxd.com/search/Guarding%20Stars/",
+          "providers": []
+        },
+        {
+          "id": 1131943,
+          "title": "Madden",
+          "releaseDate": "2026-11-18",
+          "firstDigitalDate": "2026-11-18",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-18",
+              "note": "Prime Video",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 7.015,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1131943",
+          "letterboxdUrl": "https://letterboxd.com/search/Madden/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "movies": [
+        {
+          "id": 1307474,
+          "title": "On Behalf of My Son",
+          "releaseDate": "2026-11-20",
+          "firstDigitalDate": "2026-11-20",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-20",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.3781,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/EE0nu2jPKGio3ICEG193Z7DDSe.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1307474",
+          "letterboxdUrl": "https://letterboxd.com/search/On%20Behalf%20of%20My%20Son/",
+          "providers": []
+        },
+        {
+          "id": 1568060,
+          "title": "Perfect Liars",
+          "releaseDate": "2026-11-20",
+          "firstDigitalDate": "2026-11-20",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-20",
+              "note": "Prime Video",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 3.5766,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/6bQ0YqBV61wlBHArIyksxs0FoT6.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1568060",
+          "letterboxdUrl": "https://letterboxd.com/search/Perfect%20Liars/",
+          "providers": []
+        },
+        {
+          "id": 1595124,
+          "title": "Steps",
+          "releaseDate": "2026-11-20",
+          "firstDigitalDate": "2026-11-20",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-20",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 6.0852,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/c7eHnRXLK86sdCuq0rnZgp7GvS5.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1595124",
+          "letterboxdUrl": "https://letterboxd.com/search/Steps/",
+          "providers": []
+        },
+        {
+          "id": 1726490,
+          "title": "The Bleeders",
+          "releaseDate": "2026-11-20",
+          "firstDigitalDate": "2026-11-20",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-20",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.7715,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/iBIAIBU5hj2sF6oGNTQalz4BQBM.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1726490",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Bleeders/",
+          "providers": []
+        },
+        {
+          "id": 1466397,
+          "title": "The Return of the Lifeblood",
+          "releaseDate": "2026-11-20",
+          "firstDigitalDate": "2026-01-22",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-20",
+              "note": "Los Angeles Fantasy Fest (Vimeo Screening)",
+              "kind": "followup_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.5572,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/l2UgLosLqItkLFTEiVYAlhUQ4Nw.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1466397",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Return%20of%20the%20Lifeblood/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "movies": [
+        {
+          "id": 1280115,
+          "title": "Way of the Warrior Kid",
+          "releaseDate": "2026-11-24",
+          "firstDigitalDate": "2026-11-24",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-24",
+              "note": "Apple TV",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.8092,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/onZIFslULiG6aKgGFMZkAAWy2QV.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1280115",
+          "letterboxdUrl": "https://letterboxd.com/search/Way%20of%20the%20Warrior%20Kid/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "movies": [
+        {
+          "id": 1769056,
+          "title": "Shane V",
+          "releaseDate": "2026-11-25",
+          "firstDigitalDate": "2026-11-25",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-25",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.4636,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/cgPPYSHqCNzPigp1drfFOKu7XqL.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1769056",
+          "letterboxdUrl": "https://letterboxd.com/search/Shane%20V/",
+          "providers": []
+        },
+        {
+          "id": 1458300,
+          "title": "The Mosquito Bowl",
+          "releaseDate": "2026-11-25",
+          "firstDigitalDate": "2026-11-25",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-25",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.5388,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/yYyakG09lQMhlF3GW0ZCTjnDhah.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1458300",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Mosquito%20Bowl/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "movies": [
+        {
+          "id": 1741953,
+          "title": "Path of Titans 4 - DUCK DYNASTY",
+          "releaseDate": "2026-11-26",
+          "firstDigitalDate": "2026-11-26",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-26",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.5441,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/pirpicFbO87Y2gIJtIRtHSUzNig.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1741953",
+          "letterboxdUrl": "https://letterboxd.com/search/Path%20of%20Titans%204%20-%20DUCK%20DYNASTY/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "movies": [
+        {
+          "id": 1716604,
+          "title": "A Proud Family Wizmas",
+          "releaseDate": "2026-11-27",
+          "firstDigitalDate": "2026-11-27",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-27",
+              "note": "Disney+",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.0577,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1716604",
+          "letterboxdUrl": "https://letterboxd.com/search/A%20Proud%20Family%20Wizmas/",
+          "providers": []
+        },
+        {
+          "id": 1674501,
+          "title": "Kyle and Eric's Quest for the Golden Bong",
+          "releaseDate": "2026-11-27",
+          "firstDigitalDate": "2026-11-27",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-27",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.5812,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/k40wvROD82wGlHtgubJIOHmpBXL.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1674501",
+          "letterboxdUrl": "https://letterboxd.com/search/Kyle%20and%20Eric's%20Quest%20for%20the%20Golden%20Bong/",
+          "providers": []
+        },
+        {
+          "id": 1506401,
+          "title": "The Child",
+          "releaseDate": "2026-11-27",
+          "firstDigitalDate": "2026-11-27",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-27",
+              "note": "Netflix",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 2.193,
+          "posterUrl": "",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1506401",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20Child/",
+          "providers": []
+        },
+        {
+          "id": 1773727,
+          "title": "The JLO Show",
+          "releaseDate": "2026-11-27",
+          "firstDigitalDate": "2026-11-27",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-27",
+              "note": "Paramount+",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.1605,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/9bwnRgCAyMGBJT3exLHmzlNue8o.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1773727",
+          "letterboxdUrl": "https://letterboxd.com/search/The%20JLO%20Show/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "movies": [
+        {
+          "id": 1741419,
+          "title": "WWE Survivor Series: WarGames 2026",
+          "releaseDate": "2026-11-28",
+          "firstDigitalDate": "2026-11-28",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-28",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 1.6591,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/r7KKaEOHptKPa2RMitRcZTsa5Au.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1741419",
+          "letterboxdUrl": "https://letterboxd.com/search/WWE%20Survivor%20Series%3A%20WarGames%202026/",
+          "providers": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "movies": [
+        {
+          "id": 1652990,
+          "title": "SP-2125",
+          "releaseDate": "2026-11-30",
+          "firstDigitalDate": "2026-11-30",
+          "monthDigitalEvents": [
+            {
+              "date": "2026-11-30",
+              "note": "",
+              "kind": "first_digital"
+            }
+          ],
+          "voteAverage": 0,
+          "voteCount": 0,
+          "popularity": 0.5345,
+          "posterUrl": "https://image.tmdb.org/t/p/w185/xf8vzP14D6skRY91jFyMYVTNNlF.jpg",
+          "tmdbUrl": "https://www.themoviedb.org/movie/1652990",
+          "letterboxdUrl": "https://letterboxd.com/search/SP-2125/",
+          "providers": []
+        }
+      ]
+    }
+  ]
+}
